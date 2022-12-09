@@ -1,0 +1,562 @@
+## ## NO TRANSLATE
+multiplayer.player.joined=§a %s	## 
+multiplayer.player.joined.realms=§a %s	## 
+multiplayer.player.left= §c%s	## 
+multiplayer.player.left.realms= §c%s	## 
+gui.ok=OK
+commands.scoreboard.players.offlinePlayerName=§cOffline
+commands.players.list.names=§a%s
+map.position=Pos: §c%s §r/§a %s §r/§b %s
+chat.title.cheats=§l§1XYZ §2Mini §9Games§c Chat
+disconnect.kicked.reason=§r
+disconnect.removed.reason=§r
+mcxyz.lang=ua
+mcxyz.version=1.1.0_RELEASE
+mcxyz.prefix=r
+mcxyz.no_prefix=1.1.0
+ru.mcxyz.link.report=https://mcxyz.ru/report?v=%1$s&p=%2$s&l=%3$s&name=%4$s&id=%5$s&mg=%6$s
+ru.mcxyz.link.report.short=https://mcxyz.ru/report?v=%1$s&p=%2$s&l=%3$s
+ru.mcxyz.link.donate=https://axiscube.xyz/donate
+ru.mcxyz.link.premium=https://mcxyz.ru/premium
+ru.mcxyz.link.games=https://axiscube.xyz/games
+ru.mcxyz.link.discord=https://axiscube.xyz/discord
+ru.mcxyz.link.page.alexpro756=https://mcxyz.ru/a
+ru.mcxyz.pay.rub.50=50 RUB
+
+
+axiscube.msg.mg.hg.upgrade_warn=Будь ласка, покладіть предмет який ви хочете поліпшити у головну руку.
+axiscube.msg.mg.deathrun.reward_for_feather=Ви получили §b%1$s§r за §6%2$s§r не використане(их) легке перо!
+axiscube.msg.mg.general.start_by=Гравець §6%1$s§r почав гру! 
+axiscube.msg.mg.deathrun.no_dead=Смерть покинула гру! Міні-гра зупинена.
+axiscube.msg.system.main_opearator_left=Головний оператор покинув гру! Новий тимчасовий оператор карти - §6%1$s§r. Він буде налаштовувати та керувати іграми поки головний оператор не повернеться!
+
+xyz.minecrafter.mg.hg.description=Збирай все що бачиш, щоб приготуватися до включення PVP!Переможець отримає 100. Порада: Ти можеш покращувати свої мечі, сокири ї броню з допомогою столу покращення! 
+axiscube.msg.mg.hg.refilling=§7Йде поповнення скринь...
+axiscube.msg.mg.hg.warning=§7Ви не в безпечної §cзоні§7,прямуйте до центра карти!
+axiscube.msg.mg.hg.warning_zone=§7Увага §cбезпечна§7 зона звузилася!
+axiscube.msg.mg.hg.add_zone=§7З'явилася §aбезпечна зона§7, прямуйте до неї
+axiscube.msg.mg.hg.pvp_turn_on=§cPVP §7йУвімкнеться через §c%1$s§7 секунд
+axiscube.msg.mg.hg.pvp_on=§cPvP увімкнено!
+axiscube.msg.mg.hg.death_zone_title=§6%1$s §7помер за безпечної зоною
+
+xyz.minecrafter.mg.sw.description=Збирай ресурси, будуйся до других островам ї залишся останнім вижившем! Порада: покращуй свою броню,мечі,та сокири з допомогою стола покращень
+
+
+## ## Packs
+pack.description=Зроблено для карти §4X§2Y§1Z §4M§6I§eN§aI §bG§3A§aM§5E§dS§r. §cНе відключайте ресурс-пак під час ігри на мапі §cЗаборонено розповсюдження пакета ресурсів без самої карти/використовувати пак у своїх цілях! §rСайт: §bhttps://axiscube.xyz 
+## Time
+xyz.minecrafter.text.time.1min=§6Ви граєте більше §a1§6 хвилини!
+xyz.minecrafter.text.time.timeplaying=Тривалість вашого раунду тривала: §a%1$s §rхвилин §a%2$s §rсекунд
+xyz.minecrafter.text.time.msg2=Время: %1$s:%2$s %3$s
+xyz.minecrafter.text.time.standart=§6Час: §a%1$s§6:§a%2$s
+xyz.minecrafter.text.time.standart2=§a%1$s§r Час в іграх: §a%2$s §rгодин §a%3$s §rхвилин §a%4$s §rсекунд
+xyz.minecrafter.text.time.standart1=Загальний час:§a %1$s§rгодин §a%3$s§r хвилин%2$s 
+
+## functions
+xyz.minecrafter.text.time.timeplayingmoment=Ви граєте більше: §a%1$s §6хвилин §a%2$s §6секунд
+xyz.minecrafter.text.function.time.1t=%1$s скинув рахунок гри
+xyz.minecrafter.text.function.reset.stats=%1$s скинув усю статистику! (крім часу та кількості скидів даних!)
+xyz.minecrafter.reset.offline=Скидання Offline гравців
+
+chat.type.text=§rЛаскаво просимо! Завантажити карту можна за посиланням: §bhttps://axiscube.xyz/mg2
+
+## Таблички
+xyz.minecrafter.sign.collect.it=Збирай це
+xyz.minecrafter.sign.donate.n1=Вибери зручний спосіб оплати, і ти з'явишся тут!
+xyz.minecrafter.msg.game.soon=Гра незабаром почнеться
+xyz.minecrafter.sign.gamestarted=Іде гра...
+
+xyz.minecrafter.rarity.other=Пасхальне
+xyz.minecrafter.task.find=Найди: %1$s
+xyz.minecrafter.task.kill=Вбий: %1$s
+xyz.minecrafter.adv.bw.bedsbreaker=Руйнівник ліжок
+xyz.minecrafter.msg.winner=§g%1$s§r переміг
+## ## Такое же как xyz.minecrafter.msg.winner, только без переменной
+xyz.minecrafter.msg.winner.noplaceholder=переміг 
+
+xyz.minecrafter.msg.winners=§g%1$s§r перемогли
+xyz.minecrafter.msg.loser=§c%1$s§r програв
+xyz.minecrafter.msg.losers=§c%1$s§r програли
+
+xyz.minecrafter.winner.is=Переможець: §a%1$s§r
+xyz.minecrafter.winners.is=Переможці: §a%1$s§r
+xyz.minecrafter.looser.is=Програли: §c%1$s§r
+
+xyz.minecrafter.msg.no_perm.stopgame.send_msg_to_operator=§cНедостатньо прав. Відправлено запит на завершення гри §4%1$s§c.
+xyz.minecrafter.msg.no_perm.stopgame.send_msg_from_member=§a%1$s§r просить завершити гру. Використовуйте ігрове меню, щоб завершити гру
+
+## Меню
+xyz.minecrafter.menu.settings.map_reloading=Перезавантаження карти
+xyz.minecrafter.menu.settings.map_reloading.description=Перезавантаження карти призведе до скидання всіх ігрових тегів, а також перезавантаження всіх фізичних механізмів картки (крім механізмів аддону). Рекомендується, якщо на карті щось не працює. Ви впевнені, що хочете це зробити?
+xyz.minecrafter.menu.settings.global_set=Налаштування(Global)
+xyz.minecrafter.menu.settings.on=§aПараметр увімкнено!
+xyz.minecrafter.menu.settings.off=§cПараметр вимкнено!
+xyz.minecrafter.menu.dialogue.reaction.name=Реакції
+xyz.minecrafter.menu.dialogue.reaction=Бажаєте отримувати діалогове вікно вибору реакції після завершення ігор? Ви завжди можете вимкнути або увімкнути це в налаштуваннях!
+xyz.minecrafter.menu.dialogue.reaction.title=Вибір налаштування
+xyz.minecrafter.menu.dialogue.reaction.text.settings=Бажаєте отримувати діалогове вікно вибору реакції після завершення ігор?
+xyz.minecrafter.menu.dialogue.confirmation=Підтвердження дії
+xyz.minecrafter.menu.dialogue.confirmation.teleport=Ви дійсно хочете повернутися до лобі?
+xyz.minecrafter.menu.perm.stop.name=Зупинка гри
+xyz.minecrafter.menu.perm.start.name=Початок гри
+xyz.minecrafter.menu.perm.game.name=Управління іграми
+xyz.minecrafter.settings.perm.stop.description=Управління правами, хто може закінчити гру
+xyz.minecrafter.settings.perm.start.description=Управління правами, хто може розпочати гру
+xyz.minecrafter.settings.perm.game.description=Управління правами, хто може настроювати ігри через ігрове меню
+xyz.minecrafter.settings.perm.game.description.more=Управління правами, хто може настроювати ігри через ігрове меню, наприклад, включати невидимість у мінному полі
+xyz.minecrafter.settings.perm.stop.description.more=Управління правами, хто може закінчити гру в деяких міні-іграх, а також повернутися до лобі.
+xyz.minecrafter.settings.perm.start.description.more=Управління правами, хто може розпочати гру в меню, а також у деяких іграх.
+xyz.minecrafter.settings.perm.tier.all=всіх
+xyz.minecrafter.settings.perm.tier.only_me=Тільки я
+xyz.minecrafter.menu.perm.name=Права
+xyz.minecrafter.menu.kitselection=Налаштування кіт-старту
+xyz.minecrafter.menu.kitselection.description=Оператори карти та гравці, які можуть керувати настройками ігор, можуть вибрати кит-старт. Він буде застосований до всіх гравців. Всього можна вибрати три набори!
+xyz.minecrafter.menu.donate.cosmetic.particle.text=Партикли можна купити за внутрішньоігрову валюту. Партикли дійсні лише у лобі.
+xyz.minecrafter.reset.board=Скидання рахунку
+xyz.minecrafter.reset.stats=Скидання статистики
+xyz.minecrafter.settings.display.descriptions=Налаштування відображення кількості смарагдів на бічній панелі під ніком гравця в меню паузи гри.
+xyz.minecrafter.settings.display.descriptions.in_display_settings=%1$s"%2$s" - §cВикл.§r/§aВкл.§r бокове табло%1$s§r%1$s"%3$s" - §cВикл.§r/§aВкл.§r/§dНалаштувати§r відображення кількості смарагдів під ніком гравця%1$s§r%1$s"%4$s" - §cВикл.§r/§aВкл.§r/§dНалаштувати§r відображення рахунку гравців у меню паузи гри
+xyz.minecrafter.settings.display.button.sidebar=Бокове табло
+xyz.minecrafter.settings.display.button.belowname=Під ніком
+xyz.minecrafter.settings.display.button.list=У меню паузи гри
+xyz.minecrafter.settings.reset.descriptions=Скидання статистики, смарагдів для всіх гравців або лише для гравців Offline
+xyz.minecrafter.reset.descriptions=Скидання рахунку призведе до скидання всіх ваших накопичених смарагдів (), після скидання повернути смарагди не вдасться! Скидання гравців Offline скине всі накопичені смарагди всіх гравців, які в даний момент не грають на карті. Скидання статистики призведе до скидання всіх лічильників, крім часу та кількості інших скидів!
+ru.mcxyz.menu.speed_start=Швидкий старт 
+ru.mcxyz.menu.speed_start.about=Швидкий старт - швидка гра зі збереженням налаштувань, які ви виставили до цього, при цьому якщо гра містить випадкову генерацію рівнів, (Наприклад: Мінне поле) то арена залишиться з минулого раунду, без процедури генерації.
+ru.mcxyz.menu.arena.classic=Класична
+ru.mcxyz.menu.arena.clifs=Гори
+ru.mcxyz.menu.arena.town=Місто
+xyz.minecrafter.menu.select.difficulty=Виберіть складність гри
+xyz.minecrafter.menu.select.arena=Виберіть арену, де проходитиме гра
+xyz.minecrafter.mods=Модифікатор
+xyz.minecrafter.classic=Классический
+xyz.minecrafter.gamemenu=Меню ігри
+xyz.minecrafter.stopgame=Закінчити гру
+xyz.minecrafter.noperm=Недостатньо прав!
+ru.mcxyz.desription.warn.no_op=У вас недостатньо прав, щоб почати гру, ви можете переглянути опис ігор, продовжити?
+xyz.minecrafter.particles_menu.description= Вибирайте ваші партикли під час смерті в деяких іграх!
+xyz.minecrafter.particles_menu.name=Партикли
+xyz.minecrafter.menu.redeem.redeem.description=Натисніть кнопку "%1$s", щоб побачити інші цифри
+xyz.minecrafter.game_menu.report.d=Нам д-у-у-уже шкода, що ви стикнулися з помилкою на карті. Але ми раді, що ви вирішили повідомити її! Ви можете повідомити про баг за цим посиланням, або натисніть кнопку в меню, щоб отримати докладне посилання з інформацією: §b%1$s§r (Вводіть без переносних тире. Потрібно VPN, якщо у вашому регіоні не доступний Яндекс)
+xyz.minecrafter.game_menu.report.d_long=Ось докладніше посилання для репорту багу: §b%1$s §r(Потрібно VPN, якщо у вашому регіоні не доступний Яндекс)
+## Кнопки
+xyz.minecrafter.button.selectgame=Вибір гри
+xyz.minecrafter.button.donate=Донат
+xyz.minecrafter.settings.display=Відображення
+xyz.minecrafter.game_menu.report=Знайдений баг?
+## links
+ru.mcxyz.link.insruction.get=Щоб отримати інформацію про §b%1$s§r, перейдіть за посиланням: §b%2$s
+
+## msg
+## %1$sЗіграли в §a%3$s§r міні-ігор%1$sПомерли §a%3$s§r раз%1$sНаступили на §a%4$s§r мін%1$sЗла курка з'їла §a%4$s§r гравців%1$s Зламали §a%5$s§r ліжок у BedWars %1$s Використовували предмети §a%7$s§r раз%1$s
+xyz.minecrafter.msg.stat.global=За §c%1$s§r годин, §6%2$s§r хвилин, §a%2$s§r секунд на карті:
+xyz.minecrafter.msg.stat.mg=Зіграли в §a%1$s§r міні-ігор
+xyz.minecrafter.msg.stat.deaths=Гравці померли §c%1$s§r разів
+xyz.minecrafter.msg.stat.item_click=Було здійснено §a%1$s§r кліків з предметів
+xyz.minecrafter.msg.stat.unical_players=Зайшло §a%1$s§r унікальних гравців
+
+xyz.minecrafter.msg.stat.mn=Гравці наступили на §a%1$s§r мін
+xyz.minecrafter.msg.stat.deathrun=Смерть у DeathRun активувала §a%1$s§r пасток, із-за цьго гравці померли в цій грі §c%2$s§r разів
+xyz.minecrafter.msg.stat.prk=Гравці підібрали §a%1$s§r чекпоінтів, а повернулися до чекпоінтів §c%2$s§r разів.
+xyz.minecrafter.msg.stat.glass=Було розбито скляних §c%1$s§r платформ у грі "Скло"
+xyz.minecrafter.msg.stat.chicken=Зла курка з'їла §c%1$s§r гравців. Було зібрано всього монет: §g%2$s 
+xyz.minecrafter.msg.stat.bw=Зламано §c%1$s§r ліжок у BedWars. Згенеровано: §d%2$s§r , §g%3$s§r , §7%4$s§r , §6%5$s§r . §rВсього: §a%6$s§r ресурсів
+xyz.minecrafter.msg.stat.drop=Було пройдено §6%1$s§r рівнів дроппера!
+
+xyz.minecrafter.msg.welcome.first_time=Вітаємо §b%1$s§r! Ласкаво просимо до карти §4X§2Y§1Z §4M§6I§eN§aI §bG§3A§aM§5E§dS§r! Завантажити картку можна за посиланням: §bhttps://axiscube.xyz/mg2
+xyz.minecrafter.loading.item=Зачекайте, предмет завантажується!
+xyz.minecrafter.too_small.num=Значення не може бути менше §b%1$s
+xyz.minecrafter.arena.join.request=Запит на підключення до арени §b%1$s (id:%2$s): xyz.minecrafter.%1$s.%3$s.request_token:756_%2$s_325
+xyz.minecrafter.settings.already_selected=§cПараметр уже вибрано!
+xyz.minecrafter.settings.music.on=Ви включили музику. Вам сподобається!
+xyz.minecrafter.settings.music.off=Ви §cвимкнули§r музику. Дуже шкода :(
+xyz.minecrafter.settings.music.volume=Виберіть гучність музики.
+xyz.minecrafter.settings.music=Увімкнути музику для нашої карти? Якщо вимкнено, ви не чутимете музику від наших композиторів. Ви можете послухати наші треки за посиланням: §bhttps://mcxyz.ru/music
+xyz.minecrafter.msg.stopgame=§c%1$s §rпринудительно завершил игру!
+xyz.minecrafter.msg.promo.bedrock_media=§lБажаєте отримувати новини, аддони, статті про Minecraft Bedrock? Підпишіться на паблік §bBedrock Media§r§l у §bVK§r§l: §bhttps://vk.com/bedrock_media
+xyz.minecrafter.msg.promo.report=§lЗнайшли баг? Перейди за посиланням та повідом про нього: §b%1$s §r§l(Потрібно VPN, якщо у вашому регіоні не доступний Яндекс)
+xyz.minecrafter.msg.promo.discord=§lПриєднуйтесь до обговорення в §9Discord§r§l: §bhttps://mcxyz.ru/ds
+xyz.minecrafter.msg.promo.version=§lПеревірте актуальність вашої версії карти: §bhttps://axiscube.xyz/version§r§l. Ваша поточна версія: §b%1$s
+xyz.minecrafter.msg.promo.vk=§lПідпишіться на нас §bVK§r§l: §bhttps://vk.com/mcxyz§r§l російською мовою і §bTelegram§r§l англійською: §bhttps://t.me/axiscube
+xyz.minecrafter.msg.promo.site=§lПогляньте сторінку карти: §bhttps://axiscube.xyz/mg2
+xyz.minecrafter.msg.promo.donate=§lОтримайте нашу подяку за підтримку: §bhttps://mcxyz.ru/dn
+xyz.minecrafter.msg.promo.particle=§lВибери партикли за твоєї смерті, для цього тобі потрібно підійти до спеціального NPC на ринку!
+xyz.minecrafter.msg.promo.sound=§lХочеш змінити звук, який видається коли закінчується гра? Натисніть на: §bНалаштування >> My >> Налаштування гри >> Загальне >> Game Over >> Вибери звук
+xyz.minecrafter.msg.promo.music=§l Ти можеш налаштувати нашу музику в особистих налаштуваннях на 50%, 100% гучності і навіть вимкнути її. До речі, ось список наших треків: §bhttps://mcxyz.ru/music
+xyz.minecrafter.msg.promo.art=§lТи можеш купити аватарку в стилі Minecraft у нашому паблику §bVK§r§l: §bhttps://mcxyz.ru/art-vk§r§l та на §bFiverr§r§l: §bhttps://mcxyz. ru/fiverr
+xyz.minecrafter.msg.promo.devtime=§lНа розробку та тести карти було витрачено більше §b600 годин§r§l! Різні розробники картки витратили понад 25 днів життя на цей проект!
+xyz.minecrafter.msg.promo.playertime=§lКарта вже працює: §b%1$s годин§r§l, §b%2$s минут§r§l
+xyz.minecrafter.msg.promo.reload=§lКарта перестала працювати? Гравці знаходяться на різних аренах коли зайшли? Спробуй перезавантажити карту, зайди в: §bНалаштування >> Global >> Скинути >> Перезавантаження карти§r або скачайте її повторно на: §bhttps://axiscube.xyz/mg2
+
+## Bank
+axiscube.bank.atm=Банкомат
+axiscube.bank.bank=Банк
+axiscube.bank.axisbank=АксісБанк
+axiscube.bank.action.cash_out=Перевести в готівку
+axiscube.bank.action.cash_in=Поповнити
+axiscube.bank.action.cash_out.text=Хочеш подарувати другу свої смарагди? Чи просто потримати смарагди як предмет? Ти можеш зняти готівку смарагди номіналом 100 та 10.
+axiscube.bank.action.cash_in.text=Щоб поповнити свій рахунок, натисніть на предмет.
+axiscube.bank.action.cash_out.text2=Як багато смарагдів ви хочете зняти?
+
+xyz.minecrafter.msg.emerald.buy2=§r[§dAxisBank§r] Невдала спроба зняття готівки. З рахунку гравця §d%1$s§r. Була спроба зняти §d%2$s§r у банкоматі банку "§d%3$s§r".
+xyz.minecrafter.msg.emerald.buy2=§r[§dAxisBank§r] Зняття готівки. З рахунку гравця §d%1$s§r. Було знято §d%2$s§r у банкоматі банку "§d%3$s§r".
+xyz.minecrafter.msg.emerald.buy=§r[§dAxisBank§r] Купівля. З рахунку гравця §d%1$s§r. Був куплений ігровий предмет "§d%2$s§r" за §d%3$s§r. Активуйте її там, де купили!
+xyz.minecrafter.msg.emerald.buy2=§r[§dAxisBank§r] Купівля. З рахунку гравця §d%1$s§r. Був куплений ігровий предмет "§d%2$s§r" за §d%3$s§r.
+xyz.minecrafter.msg.emerald.but.title=Підтвердження покупки
+xyz.minecrafter.msg.emerald.transaction=Ви дійсно бажаєте купити "%1$s"? Він обійдеться вам у %2$s. Після покупки ви не зможете повернути гроші!
+xyz.minecrafter.msg.emerald.buy.cancel=§r[§dAxisBank§r] Відмова. Рахунок гравця §d%1$s§r має §d%4$s§r, а ігровий предмет "§d%2$s§r" коштує §d%3$s§r.
+
+
+xyz.minecrafter.msg.start_game=Гра почалася
+xyz.minecrafter.msg.time.player_time=Гравець §a%1$s§r провів §a%2$s годин(и)§r, §a%3$s хвилин§r, §a%4$s секунд§r у міні-іграх!
+xyz.minecrafter.msg.menu.settings.resetparticle=Ваші партикли при смерті скинуті!
+xyz.minecrafter.msg.menu.settings.reset_generic=Успішно скинуто!
+ru.mcxyz.desription.warn.noplayers=Попередження: замало гравців для запуску цих міні-ігор, ви не зможете грати в ці ігри, продовжити?
+
+xyz.minecrafter.msg.haspremium=§d%1$s§r має Premium!
+
+xyz.minecrafter.msg.functionslist= §oВзнайте доступний список команд - §b/function help
+
+xyz.minecrafter.msg.gameunlocked.line1=На карті більше двох гравців
+xyz.minecrafter.msg.gameunlocked.line2=Доступно більше міні-ігор!
+
+xyz.minecrafter.msg.noplayers=§cНа карті дуже мало гравців! Мінімум потрібно §4%1$s§c гравця.
+xyz.minecrafter.msg.1player=На карті менше 2 гравців, ігри було зупинено!
+xyz.minecrafter.msg.joinnotification=Ігри були зупинені, з поверненням!
+xyz.minecrafter.msg.coldown=§cЗачекайте ще §4%1$s§c секунд, щоб використовувати це.
+
+xyz.minecrafter.msg.game.is=Гра: §l§a%1$s
+xyz.minecrafter.msg.game.description=Опис: §l§b%1$s
+
+## Удалено
+xyz.minecrafter.msg.donate.perm.sound_on_game_over=Ви почули звук, однак він не зберігся як ваш звук під час закінчення гри, виберіть безкоштовний звук або купіть §dPremium§r.
+xyz.minecrafter.menu.donate.cosmetic.text=Косметичні налаштування
+xyz.minecrafter.menu.donate.removeborders= Зняти обмеження
+xyz.minecrafter.menu.donate.cosmetic.reactions= Реакції
+xyz.minecrafter.menu.redeem.description=Ви надіслали більшу суму §d%1$s§r на сторінці: §d%2$s§r? Чудово! Зв'яжіться зі творцем картки на: §d%3$s§r, повідомте йому код, який можна отримати, натиснувши на кнопку "§d%4$s%5$s§r", він повідомить вам код, який ви повинні ввести через кнопку "§dEnter code§r", приклад коду: §dA03240, B10751§r
+xyz.minecrafter.msg.donate.generic=Щоб отримати доступ до цієї функції, потрібний преміум доступ до карти! Докладніше: §bhttps://axiscube.xyz/premium
+xyz.minecrafter.msg.donate.settings_particle=§gЩоб вибирати партикли при смерті, потрібні преміум можливості. Докладніше: §bhttps://axiscube.xyz/premium
+xyz.minecrafter.msg.donate.settings_particle.in_description=Вибирайте, які частинки зобразяться після смерті у цій грі!
+xyz.minecrafter.msg.donate.bwkit=§gЩоб вибрати кит-старт, потрібен як мінімум §b1§g гравець з преміум можливостями. Докладніше: §bhttps://axiscube.xyz/premium
+xyz.minecrafter.msg.donate.main=Донат-повідомлення морально підтримують нас! На отримані гроші ми оплачуємо: оренду §dRealms PLUS§r, зарплату художникам та творцям рендер-артів, хостинг сайтів та ін. %1$s§r%1$s§rПідтримай нас за посиланням: §d%2$s 
+
+progressScreen.message.locating= Ти також можеш завантажити цю карту за посиланням: §bhttps://axiscube.xyz/mg2
+progressScreen.message.building= Карта перестала працювати? Зайди в: §bНалаштування >> Global >> Скинути >> Перезавантаження карти§r або скачайте її повторно на: §bhttps://axiscube.xyz/mg2
+progressScreen.message.resourceLoading=Напишіть §b/function help§r, щоб побачити перелік команд
+progressScreen.loading=axiscube.xyz/mg2
+disconnectionScreen.disconnected=Втрачено з'єднання, ти можеш грати на карті один! Скачай її на: §bhttps://axiscube.xyz/mg2§r , а ще ти можеш підтримати нас, докладніше: §bhttps://axiscube.xyz/premium§r
+
+commands.function.functionNameNotFound=§b/function %1$s§c - не існує, напишити §b/function help§c, щоб побачити доступний список.
+commands.generic.unknown=§cКоманду "/%s" §7§o(Можливо, цієї команди взагалі не існує) §r§cможуть писати тільки оператори! Зверніться до адміністратора хоста та попросіть видати вам потрібні права! §6Доступні команди: §a/w§6, §a/tell§6, §a/me§6, §a/msg§6, §a/list§6
+commands.players.list=§6Онлайн хоста: §a%1$d§6 з§a %2$d§6, список гравців:
+
+## ## Аддон
+item.mcxyz:settings=§l§9Налаштувати гру
+item.mcxyz:loading_item=Предмет завантажується...
+item.mcxyz:tp_spawn=§l§6Тепортуватися на спавн
+item.mcxyz:donate_item=§l§6Донат
+item.mcxyz:levitation_item=§l§bЛегке перо
+item.mcxyz:levitation_item2=§l§7Легке перо
+item.mcxyz:emerald_big=§l§aВеликий смарагд §7(+100)
+item.mcxyz:emerald_small=§l§aМаленький смарагд §7(+10)
+item.mcxyz:game_settings=§l§cМеню гри
+item.mcxyz:cosmetic=§l§dКосметика
+item.mcxyz:game_selector=§l§2Вибір гри
+item.mcxyz:kill_item=§l§aПовернутися на чекпоїнт
+item.mcxyz:petard_item=§l§2Хлопавка
+item.mcxyz:kitselection_item=§l§bВибір набору
+item.mcxyz:spectator_item=§l§bМеню спостерігача
+item.mcxyz_test:inv_wand=§l§dПосох невидимості
+item.mcxyz_test:regen_wand=§l§dПосох регенерації
+item.mcxyz:menu=§l§bМеню
+item.mcxyz:drop_location_selector=§l§dТелепорт
+item.mcxyz:deathrun_back=§l§cНазад
+item.mcxyz:deathrun_forward=§l§aВперед
+item.mcxyz:bw_team_selector=§l§bВибір команди
+item.mcxyz:startgame=§l§aПочати гру
+item.mcxyz:backlobby=§l§cНазад у лобі
+item.mcxyz:flagw_team_selector=§l§bВибір команди
+item.mcxyz:pvp_role_selector=§l§bВибір ролі
+item.mcxyz:game_menu=§2§lІгрове меню
+item.mcxyz:deathrun_activate=§a§lАктивувати пастку
+## ## Более удобные сообщения
+commands.message.display.incoming=§r§6[§a%1$s §3-> §cМені§6]§r %2$s
+commands.message.display.outgoing=§6[§cЯ §3-> §a%1$s§6]§r %2$s	## 
+
+## ## Предупреждения
+createWorldScreen.worldSettings=Параметри світу §c(Не міняти!)	## 
+hbui.CreateNewWorld.cheats.title=Налаштування §c(Не міняти!)	## 
+options.achievementsDisabled=§cНЕ МЕНЯЙТЕ НАЛАШТУВАННЯ! ЦЕ МОЖЕ ПРИВЕСТИ ДО НЕ ПРАВИЛЬНОЇ РОБОТИ КАРТИ §4M§6I§eN§aI §bG§3A§aM§5E§dS§r! Якщо ваша карта чомусь не працює скачайте її заново з: §bhttps://axiscube.xyz/mg2 ##   
+
+## ## Сообщения о смерти
+death.attack.mob= Моб§6 %2$s §rжорстоко розправився з §6%1$s
+death.attack.player= §6%2$s §rжорстоко розправився з §6%1$s
+death.attack.arrow= §6%2$s §rзастрелив§6 %1$s
+
+## ## Кастомное подключение к игре
+multiplayer.player.changeToPersona=§b Гравець %s змінив свій скін.	## 
+multiplayer.player.changeToSkin=§b Гравець %s змінив свій скін.	## 
+
+## ## Отображения профиля
+xbox.profile.currentlyPlaying=Зараз грає на карті §4X§2Y§1Z §4M§6I§eN§aI §bG§3A§aM§5E§dS§r
+xbox.profile.realName=Завантажити найновішу версію карти можна на: §bhttps://axiscube.xyz/mg2
+
+## Ачивки
+xyz.minecrafter.game_over=Гра закінчена
+xyz.minecrafter.adv.mn1=Сапер, невдалий
+xyz.minecrafter.adv.mn2=Сапер, вдалий
+xyz.minecrafter.adv.lobby1=Шукач кнопок
+xyz.minecrafter.adv.lobby1=Шукач кнопок
+xyz.minecrafter.adv.finder=Шукач пасхалок
+xyz.minecrafter.adv.deathrun1=Посланець смерті
+xyz.minecrafter.adv.prk1=Без точки опори
+
+## Посохи
+xyz.minecrafter.wand.inv.15secclear=Посох зник на 15 секунд
+
+## Игры
+axiscube.mg.lobby=Лоббі
+xyz.minecrafter.mg.mn=Мінне поле
+xyz.minecrafter.mg.mn.description= Спробуй не настати на натискну плиту! %1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100%1$s§r%1$s§7 - 50%1$s§ r%1$s§6 - 10%1$s§r%1$s§rДосягнення:%1$s§r%1$s§bСапер, невдалий §7(+10) §r- наступите на міну 1 раз%1$s§r%1$s§bСапер, невдалий (x100) §7(+50) §r- наступіть на міну 100 раз%1$s§r%1$s§bСапер, вдалий § 7(+300) §r- пройдіть один із рівнів на складному режимі без жодної смерті!
+xyz.minecrafter.mg.mn.description_ingame=Твоє завдання пройти всю арену, намагаючись не наступати на міни (натискні плити). Переможців може бути лише три, а также час обмежений
+xyz.minecrafter.mg.pl.description=Земля під ногами з часом перетворюється на лаву!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 50
+xyz.minecrafter.mg.pl.description_ingame=Блоки з часом перетворюються на лаву. Нагороду отримає лише останній гравець.
+xyz.minecrafter.mg.deathrun.description=Випадковий гравець - посланець смерті, а решта має пройти смугу перешкод!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100%1$s§r%1 $s§g - 3
+xyz.minecrafter.mg.deathrun.description_ingame=Хтось із вас стане смертю, він заважатиме іншим гравцям проходити перешкоди. Нагороду отримають три призери.
+xyz.minecrafter.mg.duel=Дуель
+xyz.minecrafter.mg.squidgame=Гра в кальмара
+xyz.minecrafter.mg.squidgame.glass.description=Вибери скло, одне з них загартоване, а інше - розіб'ється...%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100%1$s§r %1$s§7 - 50%1$s§r%1$s§6 - 10
+xyz.minecrafter.mg.glass.description_ingame=Вибери правильну скляну платформу, одна з них безпечна, а друга розіб'ється!
+xyz.minecrafter.mg.squidgame.red_yellow_green_light=Світлофор
+xyz.minecrafter.mg.red_yellow_green_light.description_ingame=§l§cДля гри потрібен увімкнений звук! §r Біжи до фінішу, поки пісня йде. До речі, краще зупинятися одразу до кінця пісні!
+xyz.minecrafter.mg.squidgame.red_yellow_green_light.description=Необхідно грати з увімкненим звуком! Добігайте до фінішу, поки йде пісня!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100%1$s§r%1$s§7 - 1
+xyz.minecrafter.mg.spl=Спліф
+xyz.minecrafter.mg.pvp.description= Безліч різних PVP ігор, але ціль у всіх одна!.. %1$s§r%1$s Нагорода: §o§7Залежить від докладного типу PVP гри*
+xyz.minecrafter.mg.pvp.description_ingame=Зараз оператор карти вибере одну з PVP ігор, вони різні, але у всіх головним завданням є вчинити якнайбільше вбивств!
+xyz.minecrafter.mg.spl.description_ingame=Прокопай сніг над іншими гравцями, переможе останній!
+xyz.minecrafter.mg.pvp_solo.description=Дуелі 1vs1. Переможець отримає 100
+xyz.minecrafter.mg.pvp_survival.description=Кожен сам за себе. Переможець отримає 100
+xyz.minecrafter.mg.pvp_time.description=Вчини якнайбільше вбивств. Переможець, який зробить більше вбивств, отримає 100
+xyz.minecrafter.mg.pvp_team.description=Битва §9TEAM§rvs§cTEAM§rvs§aTEAM§rvs§gTEAM§r. Альянс переможців отримає 100
+xyz.minecrafter.mg.spl.description= Знищи пол під гравцем!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100
+xyz.minecrafter.mg.hideandseek=Схованки
+
+##  Где цифры - заменить цифры столько раз, сколько символов в название игры = цифр должно быть не больше сиволов
+xyz.minecrafter.mg.hg=Голодні ігри
+xyz.minecrafter.mg.hg.symbol_count=12345678 1234
+## В других локализациях заменить на короля
+xyz.minecrafter.mg.tsar_of_mountain.symbol_count=1234 1234
+xyz.minecrafter.mg.tsar_of_mountain=Король гори
+xyz.minecrafter.mg.sumo.symbol_count=1234
+xyz.minecrafter.mg.sumo=Сумо
+xyz.minecrafter.mg.chick.symbol_count=1234 123456
+xyz.minecrafter.mg.chick=Зла курка
+xyz.minecrafter.mg.diamondup.symbol_count=123456 12 123456
+xyz.minecrafter.mg.diamondup=Встань на алмази
+xyz.minecrafter.mg.colorstand.symbol_count=123456 12 1234
+xyz.minecrafter.mg.colorstand=Встань на колір
+xyz.minecrafter.mg.colorstand.symbol_count=123456 12 1234
+xyz.minecrafter.mg.bridge_builder.symbol_count=12345678901234
+xyz.minecrafter.mg.bridge_builder=Мостобудівник
+xyz.minecrafter.mg.need_to_down.symbol_count=12345
+xyz.minecrafter.mg.need_to_down=Вниз!
+xyz.minecrafter.mg.anvil_rain.symbol_count=12345 12 123456789
+xyz.minecrafter.mg.anvil_rain=Дощ із ковадла
+xyz.minecrafter.mg.pl=Підлога це лава
+xyz.minecrafter.mg.pl.symbol_count=123 123 1234
+xyz.minecrafter.mg.dropper=Дропер
+xyz.minecrafter.mg.bridge_up=Будуйся вгору!
+xyz.minecrafter.mg.bridge_up.symbol_count=1234567 123456
+xyz.minecrafter.mg.dropper.symbol_count=123456
+
+xyz.minecrafter.mg.chick.description_ingame=Збирай монети (), для перемоги тобі знадобиться 10 штук. Але бережись злої курки! До речі, іноді будуть проводитись різні події, які допоможуть курці знайти вас.
+xyz.minecrafter.mg.chick.description=Збирай монети (), як тільки ти збереш 10 , ти виграєш! Але остерігайся злої курки!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100
+xyz.minecrafter.mg.bw.description= Популярна гра про руйнування ліжок!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 300
+xyz.minecrafter.mg.bw.description_ingame=Збирай ресурси у генераторів, будуйся до інших островів. Гравці можуть заперечуватися, поки вони мають ліжко, якщо хтось із противників її зруйнував, то гравець більше не відродиться, захищай її!
+xyz.minecrafter.mg.flagw.description= Захопи прапор ворожої команди і віднеси його до свого, як тільки ти отримаєш 3 прапори ти виграєш. Але береги і свій прапор!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100%1$s§r%1$s§7 - 10  (За кожен принесений прапор)
+xyz.minecrafter.mg.flagw.description_ingame=Захопи прапор ворожої команди і віднеси його до свого, при цьому захищаючи свій, було б легко так легко, якби друга команда не мала таку ж мету.
+xyz.minecrafter.mg.mobarena=Моборезка
+xyz.minecrafter.mg.prk=Паркур
+xyz.minecrafter.mg.prk.description_ingame=Стригай, підбирай чекпоїнти і дістанься до фінішу якнайшвидше!
+xyz.minecrafter.mg.prk.description=Легендарна гра! Просто дістанься до фінішу, пройшовши всі прпятсвія!%1$s§r%1$s§g - 100%1$s§r%1$s§7 - 50%1$s§r%1$ s§6 - 10
+xyz.minecrafter.mg.dropper=Дропер
+xyz.minecrafter.mg.dropper.description_ingame=Зараз вибираються локації для гри, після старту ти повинен впасти прямо у воду, ухиляючись від перешкод рівня, всього буде вибрано 3 рівні!
+xyz.minecrafter.mg.dropper.description= Стрибни у воду через перешкоди! Вибирається 3 випадкові рівні, пройди їх, і отримай:%1$s§r%1$s§g - 100%1$s§r%1$s§7 - 50%1$s§r% 1$s§6 - 10
+xyz.minecrafter.mg.piston_challange=Поршнева головоломка
+xyz.minecrafter.mg.maze=Лабіринт
+xyz.minecrafter.mg.tntrun.description_ingame=Біжи, і не зупиняйся, намагайся залишатися на найвищому з трьох поверхів.
+xyz.minecrafter.mg.tntrun.description=Біжи, адже підлога над ногами зникає!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100
+xyz.minecrafter.mg.blockprty.description_ingame=Вставай на блоки, які з'являються в інвентарі!
+xyz.minecrafter.mg.blockprty.description=Вставай на потрібні блоки!%1$s§r%1$s Нагорода: %1$s§r%1$s§g - 100%1$s§r%1$s§g - 1  (За кожний раунд)
+## Некоторые игры не нуждаются в переводе
+
+xyz.minecrafter.lactchance=Останній шанс
+
+## Ошибки
+xyz.minecrafter.error.standart=§cВиникла невідома помилка. Код: §4## %1$s
+xyz.minecrafter.error.noperm.dev=§4%1$s§c не отримував тегів розробника!
+
+xyz.minecrafter.msg.1m=§g%1$s§r прибув першим
+xyz.minecrafter.msg.2m=§7%1$s§r прибув другим
+xyz.minecrafter.msg.3m=§6%1$s§r прибув третім
+
+## Стекло
+xyz.minecrafter.hp_count=Кількість життів
+xyz.minecrafter.hp_count.glass.see=У грі "скла" у гравців буде §b%1$s спроб.
+
+## MicroGames
+xyz.minecrafter.microgm.copyright=від §eminecrafter.§cx§9y§az
+
+
+## pvp
+xyz.minecrafter.pvp_surv_win=§7Останній гравець - §c%1$s§7, вижив у цій битві %2$s
+xyz.minecrafter.pvp.kit.select.msg=Ви обрали:§b %1$s
+xyz.minecrafter.pvp.winP1=Перемагає гравець з ім'ям§c %1$s
+xyz.minecrafter.pvp.winP2=Перемагає гравець з ім'ям §b %1$s
+xyz.minecrafter.pvp.xd=Нічия, час вийшов
+xyz.minecrafter.pvp.vs=§c%1$s §aпротив§b %2$s
+xyz.minecrafter.pvp.duel=Дуель між:§c %1$s §aпротив§b %2$s
+xyz.minecrafter.pvp.member=Гравець§c %1$s §rвибрав роль учасника дуеля (дуельянта)
+xyz.minecrafter.pvp.spectator=Гравець§b %1$s §rвибрав роль глядача (секунданта)
+xyz.minecrafter.pvp.too_many_members=§cЗанадто багато дуельянтів! Схоже, що вам потрібно стати глядачем, тому що 2 вільні ролі учасника вже зайняті! Якщо ви оператор карти повернетеся в лобі і почніть гру заново, це скине ролі кожного гравця. А якщо ви хочете грати все утрьох, то варто вибрати інший тип PVP-ігри.
+xyz.minecrafter.pvp.atackp1=Ви вибрали роль §такуючого 
+xyz.minecrafter.pvp.defp2=Ви обрали роль захисника
+xyz.minecrafter.pvp.nab=Ви §7глядач
+xyz.minecrafter.pvp.nab.button=Глядач
+xyz.minecrafter.pvp.att.button=Атакуючий
+xyz.minecrafter.pvp.def.button=Захисник
+xyz.minecrafter.pvp.kill=%1$s%2$s §rпрограв дуель гравцю з ім'ям %3$s%4$s
+xyz.minecrafter.pvp.select_your_role=Вибери свою роль, в "Дуелях" може бути лише 2 гравці-учасниці (дуельянт). Інші мають стати спостерігачами (секундантами)!
+
+
+## Паркур
+xyz.minecrafter.msg.prk.record=Гравець§6 %1$s §rпобив свій власний рекорд! Тепер його рекорд -§7 %2$s §rсекунд §b%3$s
+xyz.minecrafter.parkure=Гравець§6 %1$s §rпройшов швидкий паркур, рахунок:§a %2$s §7(§a+%3$s§7)§r, за проходження §7(§a+100§r)
+xyz.minecrafter.parkure1=Рахунок:§a %1$s §7(§a+%2§7)
+xyz.minecrafter.text.checkpoint=§c§oПовернення на чекпоінт...
+xyz.minecratfer.parkour.spawnpoint=Підібраний чекпоінт!
+xyz.minecratfer.parkour.arena.mansion=Маєток
+xyz.minecratfer.parkour.arena.japan=Схід
+xyz.minecratfer.parkour.arena.egypt=Єгипет
+xyz.minecratfer.parkour.msg.record=Локація - §b%2$s§r%1$sРекорд гравця §6%3$s§r - §b%4$s§r секунд
+
+## Игрок выбыл
+xyz.minecrafter.eliminated=§c%1$s§r вибув
+xyz.minecrafter.eliminated.pvp.players=Гравець §c%1$s§r вибув. У нього було %2$s убивств.
+xyz.minecrafter.eliminated.from.game=§c%1$s§r вибув із гри
+xyz.minecrafter.eliminated.player=Гравець §c%1$s§r вибув
+xyz.minecrafter.eliminated.player.from.game=Гравець §c%1$s§r вибув із гри
+xyz.minecrafter.eliminated.players.from.game=§c%1$s§r вибули з гри
+xyz.minecrafter.msg.you.lost=Ти програв!
+xyz.minecrafter.eliminated.players=§c%1$s§r вибули
+
+## Минное поле
+xyz.minecrafter.text.deadmsg_mn=§a%1$s §rвирішив наступити на міну, випадок §a№%2$s
+xyz.minecrafter.text.deadmsg_mn2=В §a%2$s §rраз гравець §a%1$s §rплутає міну з натискною плитою
+
+## Злая курица
+xyz.minecrafter.msg.death.chicken=Гравця §c%1$s§r вбила зла курка!
+xyz.minecrafter.msg.win.chick=§g%1$s§r зібрав достатньо монет, щоб виграти!
+xyz.minecrafter.msg.20sec.start=Курка розсердиться через §c%1$s§r секунд
+xyz.minecrafter.msg.chicken.start=Схоже, §c%1$s§r забув годувати курку! §o§7(Почекайте, я що забув сказати йому що курку треба годувати?!) §rТому, вона вийшла на полювання!
+xyz.minecrafter.msg.powerchicken=§l§4Увага: З кожною хвилиною курка посилюється!
+xyz.minecrafter.msg.getcoin=§g§l+1§r §r§o§7(У вас вже %2$s)
+xyz.minecrafter.msg.new_ability_chicken=§l§4Увага:§r пройшла §c%1$s§r хвилина. Курка стала сильнішою, нова здатність -§c %2$s
+xyz.minecrafter.msg.new_ability_chicken.clone=Двійник
+
+xyz.minecrafter.msg.chicken_teleport=Курка здійснила телепорт
+xyz.minecrafter.msg.chicken_event_over=§l§4Івент §7Завершений
+xyz.minecrafter.msg.chicken_event_on=§lУвага, вибирається івент
+xyz.minecrafter.msg.chicken_event1=§l§4Івент: §7Божевілля курок
+xyz.minecrafter.msg.chicken_event2=§l§4Івент: §7Потоп
+xyz.minecrafter.msg.chicken_event3=§l§4Івент: §7Сліпий кошмар
+xyz.minecrafter.msg.chicken_event4=§l§4Івент: §7Тошна метушня
+xyz.minecrafter.msg.chicken_event5=§l§4Івент: §7Добра курка
+
+## BlockParty
+xyz.minecrafter.partyblock.round.counter=§lРаунд §4## %1$s
+xyz.minecrafter.partyblock.mayfly=Тепер ви можете літати!
+
+## DeathRun
+xyz.minecrafter.msg.deatrun.near=Підійдіть ближче
+xyz.minecrafter.msg.deatrun.dead_select.t1=§bВибирається смерть...
+xyz.minecrafter.msg.deatrun.dead_select.t2=§bСмертю буде...
+xyz.minecrafter.msg.deatrun.dead_select.t3=§bСмерть це -
+xyz.minecrafter.msg.deatrun.spawnpoint=Гравець§a %1$s §rпройшов§a %2$s §rчекпоінт
+xyz.minecrafter.msg.deatrun.player.deat=Гравець§4 %1$s §rстав смертю
+xyz.minecrafter.msg.deatrun.deat.kill=§7Смертью§r був гравець§4 %1$s§r, він забрав§4 %2$s §rжиття
+xyz.minecrafter.msg.deatrun.you.deat=§4Ви померли
+
+## Дропер
+xyz.minecrafter.drop.levelup=§a%1$s§r перейшов на §6%2$s§r рівень!
+
+## TNTRUN
+xyz.minecrafter.tntrun.level.down=§c%1$s§r опустився на §6%2$s§r рівень
+xyz.minecrafter.spectator.perm.items=§cВам заборонено наближатися до предметів!
+xyz.minecrafter.msg.tntrun.noblockbreaks.activated=Протягом §b%1$s§r секунд під вами не будуть ламатися блоки!
+xyz.minecrafter.msg.tntrun.noblockbreaks.nope=Під вами знову з'являються блоки!
+xyz.minecrafter.msg.tntrun.help_feather.activated= Рятівне перо активоване!
+xyz.minecrafter.msg.tntrun.help_feather.use= Рятівне перо використано!
+## FlagWars
+xyz.minecrafter.flagw.reset.flag.blue=Прапор §9cиньой§r команди повернувся на базу
+xyz.minecrafter.flagw.reset.flag.red=Прапор §cчервоной§r команди повернувся на базу
+xyz.minecrafter.flagw.flag.add=Прапор захоплений
+xyz.minecrafter.flagw.flag.add.red=Гравець§c %1$s §rзахопив прапор §9синьой§r команди
+xyz.minecrafter.flagw.flag.add.blue=Гравець§9 %1$s §rзахопив прапор §cчервоної§r команди
+xyz.minecrafter.flagw.flag.title=Через§4 %1$s §rсекунд забереться стіна
+xyz.minecrafter.flagw.flag.blue=Гравець§9 %1$s§r приносить прапор §cчервоної§r команди, тепер§e %2$s захоплено
+xyz.minecrafter.flagw.flag.red=Гравець§c %1$s§r приносить прапор §9синій§r команди, тепер§e %2$s захоплено
+
+
+## BedWars
+xyz.minecrafter.bw.kitstart.abuse=Зачекайте ще §a%1$s §rсекунд, щоб отримати стартовий набір!
+xyz.minecrafter.editor.see_more=Дізнатись
+xyz.minecrafter.editor.bw.generator.generator.description=Налаштування частоти генерації для ресурсу %1$s. Натисніть кнопку "%2$s", щоб повернути час на стандартний
+xyz.minecrafter.editor.bw.generator.description=Налаштуйте швидкість генерації ресурсів у BedWars. Натисніть кнопку "Дізнатися", щоб дізнатися поточний час на генерацію
+xyz.minecrafter.editor.bw.generator=Генератор
+xyz.minecrafter.editor.bw.generator.current_time=Ресурс%1$s %2$s.item§r з'являтиметься раз у §b%3$s§r тактів або §b%4$s§r секунд (1 секунда = 20 тактів)
+xyz.minecrafter.bw.select_kitstart=Вибери те, що з'являтиметься з тобою після відродження!
+xyz.minecrafter.bw.select_your_team.name=Вибір команди
+xyz.minecrafter.bw.select_your_team=Виберіть свою команду, у команді може бути необмежену кількість гравців. Для старту гри потрібно щонайменше 2 команди з гравцями.
+xyz.minecrafter.msg.bw.bed.destroy=Ліжка зламаються ЧЕРЕЗ:§4 %1$s §rхвилин
+xyz.minecrafter.msg.bw.bed.destroy1=Ліжка зламаються ЧЕРЕЗ:§4 %1$s §rхвилину
+xyz.minecrafter.msg.bw.bed.destroy2=Ліжка зламаються ЧЕРЕЗ:§4 %1$s §rхвилини
+xyz.minecrafter.msg.bw.bed.destroy.time=До знищення ліжок залишилося§4 %1$s:%2$s
+xyz.minecrafter.msg.bw.bed.destroy.time1=Ліжка всіх команд зламані. Ви більше не §4 відроджуєтеся
+
+xyz.minecrafter.bw.norespawn=Ви більше не відродитеся!
+xyz.minecrafter.bw.yourbeddestroed=Ваше ліжко зламане
+
+xyz.minecrafter.teamconnect.red=§c%1$s§r приєднався до §cЧервоної команди
+xyz.minecrafter.teamconnect.blue=§9%1$s§r приєднався до §9 Синьої команди
+xyz.minecrafter.teamconnect.yellow=§g%1$s§r приєднався до §gЖовтої команди
+xyz.minecrafter.teamconnect.green=§a%1$s§r приєднався до §aЗеленої команди
+
+xyz.minecrafter.deathvoid.t1=%1$s%2$s§r був упевнений у тому, що виживе у безодні!
+xyz.minecrafter.deathvoid.t2=%1$s%2$s§r впав у порожнечу...
+xyz.minecrafter.deathvoid.t3=Похоже, %1$s%2$s§r впав у прірву
+xyz.minecrafter.eliminated.team=%1$s§r вибула з гри
+## ## Сколенение от xyz.minecrafter.eliminated.team
+xyz.minecrafter.team.blue=§9Синя команда
+xyz.minecrafter.team.green=§aЗелена команда
+xyz.minecrafter.team.red=§cЧервона команда
+xyz.minecrafter.team.yellow=§gЖовта команда
+xyz.minecrafter.winner.team=%1$s§r перемогла
+
+xyz.minecrafter.msg.bw.error.nab=Вам заборонено наближатися до §4гравців§r та §4предметів
+
+## Такое же как xyz.minecrafter.winner.team, только без переменной
+xyz.minecrafter.winner.team.noplaceholder=перемогла
+
+xyz.minecrafter.bw.bed.was.break=Ліжко %1$s було зламано! Руйнівник: §b%2$s
+## ## Сколенение от xyz.minecrafter.bw.bed.was.break
+xyz.minecrafter.team.blue.break=§9Синій команди§r
+xyz.minecrafter.team.green.break=§aЗеленої команди§r
+xyz.minecrafter.team.red.break=§cЧервоної команди§r
+xyz.minecrafter.team.yellow.break=§gЖовтої команди§r
+
+xyz.minecrafter.msg.bw.respawn.title1=Ви відроджені!
+xyz.minecrafter.msg.bw.respawn.title=Зачекайте,§a %1$s
+xyz.minecrafter.msg.bw.error=Помилка розподілу гравців. Будь ласка, виберіть команду
+xyz.minecrafter.msg.bw.deat.out=Гравець%2$s %1$s §rвибув
+xyz.minecrafter.msg.bw.deat=%2$s %1$s §rпомер
