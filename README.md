@@ -1,2 +1,2 @@
 # lang-files
-тест
+Lang files for XYZ MINIGAMES map
