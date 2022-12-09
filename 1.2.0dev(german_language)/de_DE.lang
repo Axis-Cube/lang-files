@@ -1,0 +1,564 @@
+## ## NO TRANSLATE 
+es tut
+multiplayer.player.joined=§a %s	## 
+multiplayer.player.joined.realms=§a %s	## 
+multiplayer.player.left= §c%s	## 
+multiplayer.player.left.realms= §c%s	## 
+gui.ok=OK
+commands.scoreboard.players.offlinePlayerName=§cOffline 
+commands.players.list.names=§a%s
+map.position=Pos: §c%s §r/§a %s §r/§b %s
+chat.title.cheats=§l§1XYZ §2Mini §9Games§c Chat
+disconnect.kicked.reason=§r
+disconnect.removed.reason=§r
+mcxyz.lang=DE
+mcxyz.version=1.1.0_RELEASE
+mcxyz.prefix=r
+mcxyz.no_prefix=1.1.0
+ru.mcxyz.link.report=https://mcxyz.ru/report?v=%1$s&p=%2$s&l=%3$s&name=%4$s&id=%5$s&mg=%6$s
+ru.mcxyz.link.report.short=https://mcxyz.ru/report?v=%1$s&p=%2$s&l=%3$s
+ru.mcxyz.link.donate=https://axiscube.xyz/donate
+ru.mcxyz.link.premium=https://mcxyz.ru/premium
+ru.mcxyz.link.games=https://axiscube.xyz/games
+ru.mcxyz.link.discord=https://axiscube.xyz/discord
+ru.mcxyz.link.page.alexpro756=https://mcxyz.ru/a
+ru.mcxyz.pay.rub.50=1$
+
+axiscube.msg.mg.deathrun.no_dead=Der Tod hat has Spiel verlassen. 
+axiscube.msg.system.main_opearator_left=Das Spiel wurde gestoppt. Der Haupt-Operator hat das Spiel verlassen! Ein neuer Operator wurde ausgewählt §6%1$s§r! 
+
+xyz.minecrafter.mg.sw.description=Sammle Resoursen, baue Brücken zu anderen Inseln und sei der letzte Überlebende
+
+axiscube.msg.mg.hg.death_zone_title=§c%1$s§r ist hinter der sicheren Zone gestorben
+axiscube.msg.mg.hg.refilling=Die Kisten wurden neu befüllt
+axiscube.msg.mg.hg.pvp_turn_on=§7Es sind §c%1$s§7 Sekunden übrig bis das Spiel startet! 
+axiscube.msg.mg.hg.pvp_on=§cPvP ist aktiviert!
+axiscube.msg.mg.hg.warning=§cDu bist nicht in der §asicheren§c Zone, gehe in die Mitte der Map!
+axiscube.msg.mg.hg.warning_zone=§cAchtung,§7 die §asichere§7 Zone hat sich verkleinert!
+axiscube.msg.mg.hg.add_zone=§7Eine §asichere§7 Zone ist erschienen. 
+
+axiscube.msg.mg.hg.upgrade_warn=Lege das Item, das du hochleveln willst in deine main-hand!
+axiscube.msg.mg.deathrun.reward_for_feather=Du bekommst §b%1$s§r für §6%2$s§r unbenutzte Feder(n). 
+axiscube.msg.mg.general.start_by=Spieler §6%1$s§r hat ein Spiel gestartet! 
+
+## ## Packs
+pack.description=Erstellt für die §4X§2Y§1Z §4M§6I§eN§aI §bG§3A§aM§5E§dS§r Welt. §cDeaktiviere dieses Texturepacket nicht während du in dieser Welt spielst. Benutze es nicht für deinen eigenen gebrauch!  §rWebseite: §bhttps://axiscube.xyz 
+## Time                                                             
+xyz.minecrafter.text.time.1min=§6You're playing more than §a1§6 minute!
+xyz.minecrafter.text.time.timeplaying=Länge der Runde: §a%1$s §rMinuten §a%2$s §rSekunden
+xyz.minecrafter.text.time.msg2=Time: %1$s:%2$s %3$s
+xyz.minecrafter.text.time.standart=§6Zeit: §a%1$s§6:§a%2$s
+xyz.minecrafter.text.time.standart2=§a%1$s§r's Zeit in den Spielen: §a%2$s §rStunden §a%3$s §rMinuten §a%4$s §rSekunden
+xyz.minecrafter.text.time.standart1=Gesamte Spielzeit:§a %1$s§rStunden §a%3$s§r Minuten%2$s 
+
+## functions
+xyz.minecrafter.text.time.timeplayingmoment=Du spielst mehr als §a%1$s §6Minuten §a%2$s §6Sekunden
+xyz.minecrafter.text.function.time.1t=%1$s hat die Spiel-Punkte zurückgesetzt
+xyz.minecrafter.text.function.reset.stats=%1$s hat alle Statistiken zurückgesetzt! (Außer die Zeit!)
+xyz.minecrafter.reset.offline=zurücksetzen der Offline-Spieler s
+
+chat.type.text=§rWillkommen! Du kannst die Welt unter folgendem Link herunterladen: §bhttps://axiscube.xyz/mg2
+
+## Signs
+xyz.minecrafter.sign.collect.it=einsammeln 
+xyz.minecrafter.sign.donate.n1=Wähle eine Zahlungsmethode und du wirst hier angezeigt! 
+xyz.minecrafter.msg.game.soon=Spiel startet bald 
+xyz.minecrafter.sign.gamestarted=Spiel läuft...
+
+xyz.minecrafter.rarity.other=Easter
+xyz.minecrafter.task.find=Finde: %1$s
+xyz.minecrafter.task.kill=Töte: %1$s
+xyz.minecrafter.adv.bw.bedsbreaker=Beds Breaker
+xyz.minecrafter.msg.winner=§g%1$s§r hat gewonnen 
+## ## Такое же как xyz.minecrafter.msg.winner, только без переменной
+xyz.minecrafter.msg.winner.noplaceholder=hat gewonnen 
+
+xyz.minecrafter.msg.winners=§g%1$s§r haben gewonnen 
+xyz.minecrafter.msg.loser=§c%1$s§r hat verloren
+xyz.minecrafter.msg.losers=§c%1$s§r hat verloren
+
+xyz.minecrafter.winner.is=Gewinner: §a%1$s§r
+xyz.minecrafter.winners.is=Gewinner: §a%1$s§r
+xyz.minecrafter.looser.is=Verlierer: §c%1$s§r
+
+xyz.minecrafter.msg.no_perm.stopgame.send_msg_to_operator=§cKeine Erlaubnis. Eine Anfarge, das Spiel zu beenden wurde gesendet §4%1$s§c.
+xyz.minecrafter.msg.no_perm.stopgame.send_msg_from_member=§a%1$s§r hat gefragt das Spiel zu beenden. Benutze das Spielmenü um es zu beenden!
+
+## Меню
+xyz.minecrafter.menu.settings.map_reloading=Karten-neuladen
+xyz.minecrafter.menu.settings.map_reloading.description=Das Karten neuladen wird alle tags und andere physikalische Mechanismen. Empfohlen wenn die Welt nicht mehr funktioniert. Bist du die Sicher dies zu tun? 
+xyz.minecrafter.menu.settings.global_set=Einstellungen (Global)
+xyz.minecrafter.menu.settings.on=§aEinstellung aktiv!
+xyz.minecrafter.menu.settings.off=§cEinstellung aus!
+xyz.minecrafter.menu.dialogue.reaction.name=Reaktionname
+xyz.minecrafter.menu.dialogue.reaction=Do you want to select a reaction window after the end of game? You can always select and deselect it in settings!
+xyz.minecrafter.menu.dialogue.reaction.title=Setting selection
+xyz.minecrafter.menu.dialogue.reaction.text.settings=Do you want to select the reaction window after the end of game?
+xyz.minecrafter.menu.dialogue.confirmation=Confirm an action
+xyz.minecrafter.menu.dialogue.confirmation.teleport=Willst du wirklich wieder zurück in die Lobby?
+xyz.minecrafter.menu.perm.stop.name=Stoppen des Spiels
+xyz.minecrafter.menu.perm.start.name=Starten des Spiels
+xyz.minecrafter.menu.perm.game.name=Spielsteuerung
+xyz.minecrafter.settings.perm.stop.description=Berechtigungssteuerung, wer kann das Spiel beenden? 
+xyz.minecrafter.settings.perm.start.description=Berechtigungssteuerung, wer kann das Siel starten
+xyz.minecrafter.settings.perm.game.description=Berechtigungssteuerung, wer kann Spiele im Spielmenü konfigurieren? 
+xyz.minecrafter.settings.perm.game.description.more=Berechtigungssteuerung, wer kann Sachen in Spielen im Spielmenü konfigurieren z.B. die Unsichtbarkeit im Minenspiel zu verändern?
+xyz.minecrafter.settings.perm.stop.description.more=Berechtigungssteuerung, wer kann das Spiel in Minispielen stoppen,  und Spieler in die Lobby zurück schicken?
+xyz.minecrafter.settings.perm.start.description.more=Berechtigungssteuerungl, wer kann das Spiel im Menü und Spielen starten? 
+xyz.minecrafter.settings.perm.tier.all=jeder
+xyz.minecrafter.settings.perm.tier.only_me=nur ich
+xyz.minecrafter.menu.perm.name=Berechtigungen
+xyz.minecrafter.menu.kitselection=Start-kit Einstellungen 
+xyz.minecrafter.menu.kitselection.description=Die Operatoren der Map können in den Einstellungen ein  Start-kit auswählen. Es wird allen Spielern gegeben. Drei Sets können ausgewählt werden!
+xyz.minecrafter.menu.donate.cosmetic.particle.text=Partikel können für In-game-Währung gekauft werden. Partikel werden nur in der Lobby zusehen sein. 
+xyz.minecrafter.reset.board=Score rücksetzen
+xyz.minecrafter.reset.stats=Stats rücksetzten 
+xyz.minecrafter.settings.display.descriptions=Einstellen wo die Anzahl deiner Smaragde angezeigt werden sollen! An der Seite, unter deinem Namen oder im Pausenmenü
+xyz.minecrafter.settings.display.descriptions.in_display_settings=%1$s"%2$s" - Schalte §coff§r/§aon§r die Seite%1$s§r%1$s"%3$s" - §cOff§r/§aOn§r/§dKonfiguriere§r die Smaragde unter deinem Namen%1$s§r%1$s"%4$s" - §cOff§r/§aOn§r/§dKonfiguriere§r im Pausenmenü
+xyz.minecrafter.settings.display.button.sidebar=An der Seite
+xyz.minecrafter.settings.display.button.belowname=Unter deinem Namen 
+xyz.minecrafter.settings.display.button.list=Im Pauenmenü 
+
+xyz.minecrafter.settings.reset.descriptions= Zurücksetzen aller Smaragde für alle Spieler oder auch nur für Offline Spieler
+xyz.minecrafter.reset.descriptions=Das Zurücksetzen der Punktzahl setzt alle Ihre erworbenen Smaragde zurück (). Nach dem Zurücksetzen können Sie die Smaragde nicht mehr zurückgeben! Offline-Spieler zurücksetzen setzt alle erworbenen Smaragde aller Spieler zurück, die derzeit nicht auf der Karte spielen. Das Zurücksetzen der Punktzahl setzt alle Zähler zurück, mit Ausnahme der Zeit und der Anzahl der Zurücksetzungen!ru.mcxyz.menu.speed_start=Schnellstart 
+ru.mcxyz.menu.speed_start.about=Schnellstart - schnelle Spiele mit voreinstellungen, welche du davor auswhälst, außserdem enthält es eine zufällige Level generation!
+ru.mcxyz.menu.arena.classic=Classic
+ru.mcxyz.menu.arena.clifs=Cliffs
+ru.mcxyz.menu.arena.town=Town
+xyz.minecrafter.menu.select.difficulty=Wähle die Spiel Schwierigkeit 
+xyz.minecrafter.menu.select.arena=Wähle einen Bereich für den Spielstart
+xyz.minecrafter.mods=Mods
+xyz.minecrafter.classic=Klassisch
+xyz.minecrafter.gamemenu=Spielmenü
+xyz.minecrafter.stopgame=Stoppe das Spiel 
+xyz.minecrafter.noperm=Keine Berechtigung! 
+ru.mcxyz.desription.warn.no_op=Du hast keine Berechtigung das Spiel zu starten, du kannst nur die Beschreibung der Spiele lesen, fortsetzen?
+xyz.minecrafter.particles_menu.description= Wähle deine Todes-particel in manchen Spielen!
+xyz.minecrafter.particles_menu.name=Partikel
+xyz.minecrafter.menu.redeem.redeem.description=Klicke den "%1$s" knopf um andere nummern zu sehen
+xyz.minecrafter.game_menu.report.d=Es tut uns leid, dass du einen Fehler gefunden hast. Aber wir sind glücklich das du dich dazu entschieden hast ihn und zu melden.\n Du kannst einen bug unter diesem Link melden: §bhttps://mcxyz.ru/report?v=1.10&p=r&l=us §r! \n Oder clicke auf Holen! 
+xyz.minecrafter.game_menu.report.d_long=Hier ist ein mehr detailierter Link: §b%1$s §r(Melde einen Fehler über diesen Link: §b%1$s§r
+## Кнопки
+xyz.minecrafter.button.selectgame=Spielauswahl 
+xyz.minecrafter.button.donate=supporte! 
+xyz.minecrafter.settings.display=Display
+xyz.minecrafter.game_menu.report=Fehler gefunden?
+## links
+ru.mcxyz.link.insruction.get=Um Infos über §b%1$s§r zubekommen, gehe auf: §b%2$s
+## msg
+## %1$sСыграли в §a%3$s§r мини-игр%1$sУмерли §a%3$s§r раз%1$sНаступили на §a%4$s§r мин%1$sЗлая курица съела §a%4$s§r игроков%1$s Сломали §a%5$s§r кроватей в BedWars %1$s Использовали предметы §a%7$s§r раз%1$s 
+xyz.minecrafter.msg.stat.global=In §c%1$s§r Stunden, §6%2$s§r Minuten, §a%2$s§r Sekunden auf der Map:
+xyz.minecrafter.msg.stat.mg=Gespielte Minigames: §a%1$s§r.
+xyz.minecrafter.msg.stat.deaths=Spieler sind §c%1$s§r-mal gestorben. 
+xyz.minecrafter.msg.stat.item_click=Es sind §a%1$s§r klicks für dieses Item.
+xyz.minecrafter.msg.stat.unical_players=Beigetreten sind §a%1$s§r Spieler.
+
+xyz.minecrafter.msg.stat.mn=Spieler sind auf §a%1$s§r Mienen gestiegen.
+xyz.minecrafter.msg.stat.deathrun=Der tot in Deathrun hat §a%1$s§r Fallen aktiviert deswegen sind §c%2$s§r Spieler gestorben.
+xyz.minecrafter.msg.stat.prk=Spieler passierten §a%1$s§r Checkpunkte und kehrten  §c%2$s§r-mal zu ihnen zurück.
+xyz.minecrafter.msg.stat.glass=§c%1$s§r Glass Plattformen wurden im Spiel "zerbrechliches Glass" zerstört. 
+xyz.minecrafter.msg.stat.chicken=Wütende Hünchen aßen §c%1$s§r Spieler. §g%2$s  §rMünzen wurden gesammelt. 
+xyz.minecrafter.msg.stat.bw=§c%1$s§r Betten wurden zerstört. §d%2$s§r , §g%3$s§r , §7%4$s§r und §6%5$s§r  wurden generriet. §rGesamt: §a%6$s§r Resourcen. 
+xyz.minecrafter.msg.stat.drop=§6%1$s§r Dropper level wurden gemeistert. 
+
+xyz.minecrafter.msg.welcome.first_time=Let's welcome §b%1$s§r! Welcome to the §4X§2Y§1Z §4M§6I§eN§aI §bG§3A§aM§5E§dS§r! You can download the map using the link: §bhttps://axiscube.xyz/mg2
+xyz.minecrafter.loading.item=Warte kurz, das Item lädt!
+xyz.minecrafter.too_small.num=Eingabe kann nicht kleiner als §b%1$s §rsein. 
+xyz.minecrafter.arena.join.request=Anfrage die Arena zu betreten: §b%1$s (id:%2$s): xyz.minecrafter.%1$s.%3$s.request_token:756_%2$s_325
+xyz.minecrafter.settings.already_selected=§cEingabe schon gewählt!
+xyz.minecrafter.settings.music.on=Du hast die Musik §angemacht§r.
+xyz.minecrafter.settings.music.off=Du hast die Musik §causgemacht§r. 
+xyz.minecrafter.settings.music.volume=Wähle die Lautstärke der Musik. 
+xyz.minecrafter.settings.music=Aktiviere die Musik für unsere Welt? Wenn du Sie ausmachst wirst du keine Musik hören. Höre unsere Songs auf: §bhttps://mcxyz.com/music
+xyz.minecrafter.msg.stopgame=§c%1$s §rhat das Spiel zwangsweise beendet!
+xyz.minecrafter.msg.promo.bedrock_media=Willst du Neuigkeiten über addons und Minecraft bekommen? Dann gehe auf §bhttps://vk.com/bedrock_media
+xyz.minecrafter.msg.promo.report=Hast du einen Bug gefunden? §b%1$s §r§l
+xyz.minecrafter.msg.promo.discord=Trete Diskusionen bei §9Discord§r§l: §bhttps://mcxyz.ru/ds
+xyz.minecrafter.msg.promo.version=Inforiere dich über die verschiedenen Versionen dieser Welt: §bhttps://axiscube.xyz/version§r§l. Your current version is §b%1$s
+xyz.minecrafter.msg.promo.vk= 
+xyz.minecrafter.msg.promo.site=Schaue auf die Welt webseite: §bhttps://axiscube.xyz/mg2
+xyz.minecrafter.msg.promo.donate=Bekomme ein Dankeschön für deinen Support: §bhttps://mcxyz.ru/dn
+xyz.minecrafter.msg.promo.particle=Wähle Partikel die nach deinem Tot angezeit werden! Gehe zum NPC auf dem Marktplatz!
+xyz.minecrafter.msg.promo.sound=Willst du den Sound, der nach dem Sieg gespielt wird ändern? Klicke §bEinstellungen >> nur ich >> Spieleinstellungen >> General >> Spielvorbei >> wähle einen Sound
+xyz.minecrafter.msg.promo.music=You can set our music in your settings to 50%, 100% volume and even turn it off. By the way, here is a list of our tracks: §bhttps://mcxyz.ru/music
+xyz.minecrafter.msg.promo.art=Du kannst unseren Minecraft avatar kaufen: §bhttps://mcxyz.ru/art-vk
+xyz.minecrafter.msg.promo.devtime=Über §b600 Stunden wurde an dieser Welt gearbeitet!
+
+xyz.minecrafter.msg.promo.playertime=An dieser Welt wurde für §b%1$s Stunden§r§l, §b%2$s Minuten §rgearbeitet!
+xyz.minecrafter.msg.promo.reload=Funktioniert die Welt nicht mehr? Mach /funtion reload oder Lade Sie erneut herrunter!
+
+## Bank
+axiscube.bank.atm=Geldautomat 
+axiscube.bank.bank=Bank
+axiscube.bank.axisbank=AxisBank 
+axiscube.bank.action.cash_out=Überweisen
+axiscube.bank.action.cash_in=Kaution
+axiscube.bank.action.cash_out.text=Willst du Smaragde zu einem Freund geben? Oder Sie einfach als Item im Inventar haben? Du kannst Smaragde in Werten von 1  bis 100  überweisen! 
+axiscube.bank.action.cash_in.text=Um Geld auf dein Konto zu überweisen musst du das Item klicken. 
+axiscube.bank.action.cash_out.text2=Wie viele Smaragde willst du überweisen? 
+
+xyz.minecrafter.msg.emerald.cash_d=§r[§dAxisBank§r] Fehler beim überweisen von §d%1$s§r. Es gab einen Versuch §d%2$s§r von "§d%3$s§r".
+xyz.minecrafter.msg.emerald.cash_s=§r[§dAxisBank§r] Überweisung. Von §d%1$s§r. §d%2$s§r wurde ein Betrag von "§d%3$s§r" überwiesen.
+xyz.minecrafter.msg.emerald.buy=§r[§dAxisBank§r] Kauf. Vom Spieler-Punk §d%1$s§r. Ein Item wurde gekauft:  "§d%2$s§r" für §d%3$s§r. Aktiviere es dort wo du es gekauft hast! 
+xyz.minecrafter.msg.emerald.buy2=§r[§dAxisBank§r] Purchase. Vom Spieler-Punk §d%1$s§r. Ein Item wurde gekauft: "§d%2$s§r" für §d%3$s§r.
+xyz.minecrafter.msg.emerald.but.title=Bestätigung des Kaufes 
+xyz.minecrafter.msg.emerald.transaction=Willst du dir wirklich "%1$s" §rkaufen? Es kostet dich %2$s. Nach einem Kauf gibt es keinen Weg dein Betrag zurück zu bekommen! 
+xyz.minecrafter.msg.emerald.buy.cancel=§r[§dAxisBank§r] Ablehnung. Spieler-Punkt §d%1$s§r hat §d%4$s§r, Soiel item "§d%2$s§r" kostet §d%3$s§r.
+xyz.minecrafter.msg.start_game=Spiel hat gestartet 
+xyz.minecrafter.msg.time.player_time=Spieler §a%1$s§r hat  §a%2$s Stunde(-n)§r, §a%3$s Menuten§r und §a%4$s Sekunden§r in Minispielen verbracht!
+xyz.minecrafter.msg.menu.settings.resetparticle=Deine Todes-partikel wurden zurückgesetzt
+xyz.minecrafter.msg.menu.settings.reset_generic=Erfolgreiche zurücksetzung!
+ru.mcxyz.desription.warn.noplayers=Warnung: es gibt zu wenig Spieler um das Minispiel zu spielen, du wirst nicht in der Lage sein das Spiel zu spielen, fortsetzten?
+
+xyz.minecrafter.msg.haspremium=§d%1$s§r hat Premium!
+
+commands.function.success=§rListe der Befehle: §b/function help§r
+xyz.minecrafter.msg.functionslist= §oFinde eine liste der verfügbaren Befehle  - §b/function help
+
+xyz.minecrafter.msg.gameunlocked.line1=Es sind mehr als zwei Spieler auf dieser Map. 
+xyz.minecrafter.msg.gameunlocked.line2=Mehr Minispiele sind verfügbar!
+
+xyz.minecrafter.msg.noplayers=§cEs sind zu wenige Spieler! Du brauchst minimum §4%1$s§c Spieler.
+xyz.minecrafter.msg.1player=Es sind weniger als zwei Spieler auf dieser Map, Spiel wurde gestoppt !
+xyz.minecrafter.msg.joinnotification=Spiele wurden gestoppt, willkommen zurück!
+xyz.minecrafter.msg.coldown=§cWarte §4%1$s§c Sekunden um es zu.
+
+xyz.minecrafter.msg.game.is=Spiel: §l§a%1$s
+xyz.minecrafter.msg.game.description=Beschreibung: §l§b%1$s
+## Возможности доната
+xyz.minecrafter.msg.donate.perm.sound_on_game_over=Du hörst ein Geräusch aber dieser wird nicht als dein Geräusch gespeichtert! Wähle einen kostenlosen Sound oder kaufe Premium §dPremium§r.
+xyz.minecrafter.menu.donate.cosmetic.text=Kosmetika Einstellungen
+xyz.minecrafter.menu.donate.removeborders= Lösche das Limit 
+xyz.minecrafter.menu.donate.cosmetic.reactions= Reaktionen 
+xyz.minecrafter.menu.redeem.description=Du hast mehr als §d%1$s§r auf dieser Seite gesendet: §d%2$s§r? Super! Kontaktiere unserteam: §d%3$s§r, sage uns den Code den du beim clicken des Knofes-"§d%4$s%5$s§r" bekommst. Daraufhin werden wir dir einen Code geben den du in das Feld "§dCode§r" eingeben musst! Code-Beispiel: §dA03240, B10751§r
+xyz.minecrafter.msg.donate.generic=Um dieses Feature zu benutzen brauchst du Premium! Weitere Infos: §bhttps://axiscube.xyz/premium
+xyz.minecrafter.msg.donate.settings_particle=§gUm Partikel bei einem Tot anzeigen zulassen brauchst du Premium.§r Weiter Infos: §bhttps://axiscube.xyz/premium
+xyz.minecrafter.msg.donate.settings_particle.in_description=Wähle die Partikel die im Falle eines Todes angezeigt werden!
+xyz.minecrafter.msg.donate.bwkit=§gTUm ein start-kit auszuwähelen brauchst du mindestens §b1§g Spieler mit Premium.§r Weitere Infos: §bhttps://axiscube.xyz/premium
+xyz.minecrafter.msg.donate.main=Mit Spenden kannst du uns sehr unterstützen! Mit dem erhaltenen Geld zahlen wir: Miete von §dRealms PLUS§r, Gehalt für unsere Künstler, zum Hosten der Webseiten und anderes.
+progressScreen.message.locating= Du kannst diese Welt auch haben! §bhttps://axiscube.xyz/mg2
+progressScreen.message.building= Die Welt funktioniert nicht mehr? Lade sie erneut herunter §bhttps://axiscube.xyz/mg2
+progressScreen.message.resourceLoading=Schreibe §b/function help§r um eine Liste aller Befehle zu erhalten
+progressScreen.generating=	Tipp:
+progressScreen.loading=https://axiscube.xyz/mg2
+disconnectionScreen.disconnected=Verbindung verloren! \n Aber keine Sorge du kannst diese Welt auch alleine Spielen! Lade Sie herunter: §bhttps://axiscube.xyz/mg2§r
+
+commands.function.functionNameNotFound=§b/function %1$s§c exestiert nicht, schreibe §b/function help§c um die verfügbaren Befehle zu erhalten.
+commands.generic.unknown=Nur die Besitzer der Welt können §ccommand "/%s" §rmachen! Frage beim Admin oder auf unseren Discord nach Hilfe! §6Available: §a/w§6, §a/tell§6, §a/me§6, §a/msg§6, §a/list§6  
+commands.players.list=§6Besitzer: §a%1$d§6 von §a %2$d§6, Liste der Spieler:
+
+## ## Аддон
+item.mcxyz:settings=Einstellungen 
+item.mcxyz:loading_item=Das Item lädt...
+item.mcxyz:tp_spawn=§l§6Zurück zum spawn
+item.mcxyz:donate_item=§l§6Spende
+item.mcxyz:levitation_item=§l§bLicht Feder
+item.mcxyz:levitation_item2=§l§7Licht Feder
+item.mcxyz:emerald_big=§l§aGroßer Smaragd §7(+100)
+item.mcxyz:emerald_small=§l§aKleiner Smaragd §7(+10)
+item.mcxyz:game_settings=§l§cSpielmenü
+item.mcxyz:cosmetic=§l§dKosmetika
+item.mcxyz:game_selector=§l§2Spielauswahl
+item.mcxyz:kill_item=§l§aZurück zum checkpoint
+item.mcxyz:petard_item=§l§2Petard
+item.mcxyz:kitselection_item=§l§bKitauswahl
+item.mcxyz:spectator_item=§l§bBeobachter Menü
+item.mcxyz_test:inv_wand=§l§dUnsichtbarkeitsstab
+item.mcxyz_test:regen_wand=§l§dRegenerationsstab
+item.mcxyz:menu=§l§bMenü
+item.mcxyz:drop_location_selector=§l§dTeleportieren 
+item.mcxyz:deathrun_activate=§a§lAktiviere die Falle 
+item.mcxyz:deathrun_back=§l§czurück
+item.mcxyz:deathrun_forward=§l§avorwährts
+item.mcxyz:bw_team_selector=§l§bTeam auswahl
+item.mcxyz:startgame=§l§aStart ein Spiel
+item.mcxyz:backlobby=§l§cZurück zur lobby
+item.mcxyz:flagw_team_selector=§l§bTeam auswahl
+item.mcxyz:pvp_role_selector=§l§bwähle eine Rolle 
+item.mcxyz:game_menu=§2§lSpielmenü
+## ## Более удобные сообщения
+commands.message.display.incoming=§r§6[§a%1$s §3-> §cMe§6]§r %2$s
+commands.message.display.outgoing=§6[§cI §3-> §a%1$s§6]§r %2$s	## 
+
+## ## Предупреждения
+createWorldScreen.worldSettings=Welt einstellungen. §c(Nichts verändern!)	## 
+hbui.CreateNewWorld.cheats.title=Settings §c(Nicht verändern!)	## 
+options.achievementsDisabled=§cVerändere keine Einstellungen! Es kann die §4X§2Y§1Z §4M§6I§eN§aI §bG§3A§aM§5E§dS§r Welt zerstören! Wenn deine Welt nicht funktioniert, lade sie dir erneut herrunter: §bhttps://axiscube.xyz/mg2	## 
+
+## ## Сообщения о смерти
+death.attack.mob= Mob§6 %2$s §r dealt with §6%1$s
+death.attack.player= §6%2$s §rdealt with §6%1$s
+death.attack.arrow= §6%2$s §rerschoß§6 %1$s
+
+## ## Кастомное подключение к игре
+multiplayer.player.changeToPersona=§b Spieler %s hat den Skin geändert.	## 
+multiplayer.player.changeToSkin=§b Spieler %s hat den Skin geändert.	## 
+
+## ## Отображения профиля
+xbox.profile.currentlyPlaying=Jetzt spielst du auf der §4X§2Y§1Z §4M§6I§eN§aI §bG§3A§aM§5E§dS§r map! 
+xbox.profile.realName=Du kannst die letzte Version dieser Welt von §bhttps://axiscube.xyz/mg2 §rherunterladen. 
+
+## Ачивки
+xyz.minecrafter.game_over=Das Spiel ist vorbei
+xyz.minecrafter.adv.mn1=Sapper, erfolgreich
+xyz.minecrafter.adv.mn2=Sapper, erfolglos
+xyz.minecrafter.adv.lobby1=Knopf-Finder
+xyz.minecrafter.adv.lobby1=Knopf-Finder
+xyz.minecrafter.adv.finder=Geheimniss-Finder
+xyz.minecrafter.adv.deathrun1=Bote des Todes
+xyz.minecrafter.adv.prk1=Ohne Drehpunkt
+
+## Посохи
+xyz.minecrafter.wand.inv.15secclear=Der Zauberstab verschwindet für 15 Sekunden
+
+## Игры
+axiscube.mg.lobby=Lobby
+xyz.minecrafter.mg.mn=Minenfeld 
+xyz.minecrafter.mg.mn.description=Versuche nicht auf die Druckplatten zu steigen! %1$s§r%1$s Belohnung: %1$s§r%1$s§g - 100%1$s§r%1$s§7 - 50%1$s§r%1$s§6 - 10%1$s§r%1$s§rErfolge:%1$s§r%1$s§bSapper, erfolglos §7(+10) §r- Berühre eine Mine%1$s§r%1$s§bSapper, erfolglos (x100) §7(+50) §r- Steige auf eine Mini 100 mal%1$s§r%1$s§bSapper, erfolglos §7(+300) §r- Schaffe ein Level in der Schwierigkeit deiner Wahl!
+xyz.minecrafter.mg.mn.description_ingame=Deine Aufgabe ist es bis ans Ziel zu gelanden ohne auf eine Druckplatte zu steigen! Deine Zeit läuft!
+xyz.minecrafter.mg.pl=Der Boden ist Lava
+xyz.minecrafter.mg.pl.description=Die Blöcke unter dir werden sich langsam zu Lava verwandeln! %1$s§r%1$s Belohnung: %1$s§r%1$s§g - 50
+xyz.minecrafter.mg.pl.description_ingame=Blöcke verwandeln sich zu Lava. Der letzte Spieler am Leben wird gewinnen.
+xyz.minecrafter.mg.deathrun.description=Ein zufälliger Spieler ist der Tod, die restlichen Spieler müssen den Parkour meistern!%1$s§r%1$s Belohnung: %1$s§r%1$s§g - 100%1$s§r%1$s§g - 3
+xyz.minecrafter.mg.deathrun.description_ingame=Einer von euch wird der Tod sein, er wird euch daran hindern den Parkour zu meistern. Drei Gewinner bekommen eine Belohnung.
+xyz.minecrafter.mg.duel=Duell
+xyz.minecrafter.mg.squidgame=Squid Game
+xyz.minecrafter.mg.squidgame.glass.description=Wähle eine Plattform, manche von ihnen zerfallen, und andere werden dich am Leben halten. %1$s§r%1$s Behlohnung: %1$s§r%1$s§g - 100%1$s§r%1$s§7 - 50%1$s§r%1$s§6 - 10
+xyz.minecrafter.mg.glass.description_ingame=Wähle die richtige Glassplatform, eine von ihnen ist sicher, die andere wird zerfallen!
+xyz.minecrafter.mg.squidgame.red_yellow_green_light=Verkehrsampel 
+xyz.minecrafter.mg.red_yellow_green_light.description_ingame=§l§cUm dieses Spiel zu spielen solltest du einen Sound erhöhen!§r Renne in Richtung des Ziels und stoppe wenn der Song erstillt. Übrigens ist es besser kurz bevor dem Song-Ende zu stoppen!
+xyz.minecrafter.mg.squidgame.red_yellow_green_light.description=Es ist nötig mit Sound zu spielen! Renne in das Ziel während das Lied läuft! %1$s§r%1$s Behlonung: %1$s§r%1$s§g - 100%1$s§r%1$s§7 - 1
+xyz.minecrafter.mg.spl=Spleef
+xyz.minecrafter.mg.pvp.description= Es gibt viele verschiedende Pvp-Spiele! Aber das Ziel bleibt gleich.. %1$s§r%1$s Belohnung: §o§7Hängt vom Spiel ab*
+xyz.minecrafter.mg.pvp.description_ingame=Jetzt wird der Operator ein Spiel auswählen, es gibt viele, aber das!
+xyz.minecrafter.mg.spl.description_ingame=Grabe den Schnee unter den anderen Spieler weg. Der letzte Spieler am Leben gewinnt! 
+xyz.minecrafter.mg.pvp_solo.description=1v1 duell. gewinne 100
+xyz.minecrafter.mg.pvp_survival.description=Jeder verteidigt sich selbst. Der Winner bekommt 100
+xyz.minecrafter.mg.pvp_time.description=Begehe so viele tötungen wie möglich. Der Gewinner, der jenige mit den meisten kills bekommt 100
+xyz.minecrafter.mg.pvp_team.description=Kampf §9TEAM§r gegen §cTEAM§rgegen§aTEAM§rgegen§gTEAM§r. Das Gewinnerteam bekommt 100
+xyz.minecrafter.mg.spl.description= Zerstöre den Boden unter den anderen Spielern!%1$s§r%1$s Belohnung: %1$s§r%1$s§g - 100
+xyz.minecrafter.mg.hideandseek=Verstecken
+
+
+##  Где цифры - заменить цифры столько раз, сколько символов в название игры = цифр должно быть не больше сиволов
+xyz.minecrafter.mg.hg=Hungerspiele
+xyz.minecrafter.mg.hg.description=Finde Kisten und neheme dir Zeug herraus! Benutze es um die anderen Spieler zu besiegen. Der Gewinner bekommt 100 . Tipp: Du kannst deine Items und Rüstungen in upgrade-Blöcken aufleveln!
+xyz.minecrafter.mg.hg.symbol_count=123456 12345
+## В других локализациях заменить на короля
+xyz.minecrafter.mg.tsar_of_mountain.symbol_count=1234 12 123 12345678
+xyz.minecrafter.mg.tsar_of_mountain=König des Berges
+xyz.minecrafter.mg.sumo.symbol_count=1234
+xyz.minecrafter.mg.sumo=Sumo
+xyz.minecrafter.mg.chick.symbol_count=1234 1234567
+xyz.minecrafter.mg.chick=Böses Hünchen
+xyz.minecrafter.mg.chick.description_ingame=Sammle 10 Münzen um zu gewinnen! Aber lass dich nicht vom Bösen Hühnchen töten. 
+xyz.minecrafter.mg.chick.description=Sammle Münzen () um zu gewinnen, du brauchst 10. Aber nehme dich in acht vor dem Bösen Hühnchen! Übrigens gibt es manchmal zufällige Events die dem Hühnchen helfen dich zu finden. !%1$s§r%1$s Behlonung: %1$s§r%1$s§g - 100
+xyz.minecrafter.mg.diamondup.symbol_count=12345 12 123 12345678
+xyz.minecrafter.mg.diamondup=Stehe auf dem Diamanten
+xyz.minecrafter.mg.colorstand.symbol_count=12345 12 123 12345
+xyz.minecrafter.mg.colorstand=Stehe auf der Farbe
+xyz.minecrafter.mg.colorstand.symbol_count=12345 12 123 12345
+xyz.minecrafter.mg.bridge_builder.symbol_count=123456 1234567
+xyz.minecrafter.mg.bridge_builder=Brücken-bauer
+xyz.minecrafter.mg.need_to_down.symbol_count=1234!
+xyz.minecrafter.mg.need_to_down=Runter!
+xyz.minecrafter.mg.anvil_rain.symbol_count=12345 1234
+xyz.minecrafter.mg.anvil_rain=Amboss regen!
+xyz.minecrafter.mg.pl.symbol_count=12345 12!
+xyz.minecrafter.mg.bridge_up=Baue dich nach oben!
+xyz.minecrafter.mg.bridge_up.symbol_count=12345 12!
+xyz.minecrafter.mg.dropper.symbol_count=1234567
+
+xyz.minecrafter.mg.bw.description= Ein bekanntes Spiel des Bett zerstörens! %1$s§r%1$s Belohnung: %1$s§r%1$s§g - 300
+xyz.minecrafter.mg.bw.description_ingame=Sammle Ressourcen von Generatoren, baue auf anderen Inseln auf. Spieler können respawnen, solange sie ein Bett haben, aber wenn einer der Gegner es zerstört hat, wird der Spieler nicht mehr respawnen, beschütze es!
+xyz.minecrafter.mg.flagw.description= Schnapp dir die Flagge des gegnerischen Teams und nimm sie zu deiner eigenen, sobald du 3 Flaggen hast, gewinnst du. Aber pass auch auf deine Flagge auf!%1$s§r%1$s Belohnung: %1$s§r%1$s§g - 100%1$s§r%1$s§7 - 10 (für jede mitgebrachte Flagge)
+xyz.minecrafter.mg.flagw.description_ingame=Schnapp dir die Flagge des gegnerischen Teams und nimm sie zu deiner eigenen, während du deine eigene verteidigst, es wäre so einfach, wenn das andere Team nicht das gleiche Ziel hätte.
+xyz.minecrafter.mg.mobarena=PVE Arena
+xyz.minecrafter.mg.prk=Parkour
+xyz.minecrafter.mg.prk.description_ingame=Springe, steige auf die Checkpunkte und Gewinne!
+xyz.minecrafter.mg.prk.description=Ein legendäres Spiel! Erreiche einfach die Ziellinie und überwinde alle Hindernisse!%1$s§r%1$s§g - 100%1$s§r%1$s§7 - 50%1$s§r %1$s§6 - 10
+xyz.minecrafter.mg.dropper=Dropper
+xyz.minecrafter.mg.dropper.description_ingame=Jetzt werden die Schauplätze für das Spiel ausgewählt, nach dem Start musst du direkt ins Wasser fallen, Level-Hindernissen ausweichen, insgesamt werden 3 Level ausgewählt!
+xyz.minecrafter.mg.dropper.description= Springe über Hindernisse ins Wasser! 3 zufällige Level werden ausgewählt, bestehe und erhalte:%1$s§r%1$s§g - 100%1$s§r%1$s§7 - 50%1$s§r %1$s§6 - 10
+xyz.minecrafter.mg.piston_challange=Piston Puzzle
+xyz.minecrafter.mg.maze=Labyrint
+xyz.minecrafter.mg.tntrun.description_ingame=Renne und bleib nicht stehen. Versuche ganz oben zubleiben!
+xyz.minecrafter.mg.tntrun.description=Renne, der Boden unter dir wird verschwinden!%1$s§r%1$s Belohnung: %1$s§r%1$s§g - 100
+xyz.minecrafter.mg.blockprty.description_ingame=Steige auf die Blöcke die du im Inventar hast
+xyz.minecrafter.mg.blockprty.description=Steige auf die Blöcke die du im Inventar hast!%1$s§r%1$s Belohnung: %1$s§r%1$s§g - 100%1$s§r%1$s§g - 1 (Für jede Runde)
+## Некоторые игры не нуждаются в переводе
+
+xyz.minecrafter.lactchance=Letzte Chance
+
+## Ошибки
+xyz.minecrafter.error.standart=§cEin unbekannter Fehler ist passiert. Code: §4## %1$s
+xyz.minecrafter.error.noperm.dev=§4%1$s§c Du hast keine Developer Berechtigung!
+
+xyz.minecrafter.msg.1m=§g%1$s§r ist erster
+xyz.minecrafter.msg.2m=§7%1$s§r ist zweiter
+xyz.minecrafter.msg.3m=§6%1$s§r ist dritter
+
+xyz.minecrafter.microgm.copyright=von §eAxisCube.§cx§ay§9z
+
+## Стекло
+xyz.minecrafter.hp_count=Anzahl der Leben
+xyz.minecrafter.hp_count.glass.see=Im Spiel "Zerfallendes-Glass" werden die Spieler §b%1$s Versuche §rhaben.
+
+
+## pvp
+xyz.minecrafter.pvp_surv_win=§7Der letzte Spieler ist §c%1$s§7 und überlebte %2$s
+xyz.minecrafter.pvp.kit.select.msg=Du hast §b %1$s §rausgewählt
+xyz.minecrafter.pvp.winP1=Gewinnt der Spieler mit dem Namen§c %1$s
+xyz.minecrafter.pvp.winP2=Gewinnt der Spieler mit dem Namen§b %1$s
+xyz.minecrafter.pvp.xd=Unentschieden, die Zeit ist um
+xyz.minecrafter.pvp.vs=§c%1$s §agegen§b %2$s
+xyz.minecrafter.pvp.duel=Duell:§c %1$s §avs§b %2$s
+xyz.minecrafter.pvp.member=Spieler§c %1$s §rwählte die Rolle eines Mitspielers (Duellliste)
+xyz.minecrafter.pvp.spectator=Spieler§b %1$s §rwählte die Rolle eines Beobachters
+xyz.minecrafter.pvp.too_many_members=§cToo many duelists! It looks like you need to become a spectator, because 2 free participant roles are already selected! If you are the map operator, go back to the lobby and start the game again, this will reset the roles of each participant. And if you want to play all three of us, then you should select a different type of PVP game.
+xyz.minecrafter.pvp.atackp1=Du hast gewählt: §cattacker 
+xyz.minecrafter.pvp.defp2=Du hast gewähl: §bdefender
+xyz.minecrafter.pvp.nab=Du bist §7Beobachter
+xyz.minecrafter.pvp.nab.button=Bepbachter
+xyz.minecrafter.pvp.att.button=Angreifer
+xyz.minecrafter.pvp.def.button=Verteidiger
+xyz.minecrafter.pvp.kill=%1$s%2$s §rverlor gegen %3$s%4$s
+xyz.minecrafter.pvp.select_your_role=Wähle deine Rolle! In Duellen können nur 2 Mitspieler sein (Duellliste). Die anderen sollten Beobachter sein.
+ 
+
+## Паркур
+xyz.minecrafter.msg.prk.record=Spieler§6 %1$s §rhat seinen Rekord gebrochen! Neuer Rekord: §7 %2$s §rSekunden §b%3$s
+xyz.minecrafter.parkure=Spieler§6 %1$s §rschafte einen Schnellen Parkour, Punkte:§a %2$s §7(§a+%3$s§7)§r, für's schaffen: §7(§a+100§r)
+xyz.minecrafter.parkure1=Punkte:§a %1$s §7(§a+%2§7)
+xyz.minecrafter.text.checkpoint=§c§oZurück zum Checkpunkt...
+xyz.minecratfer.parkour.spawnpoint=Checkpunkt geschafft!
+xyz.minecratfer.parkour.arena.mansion=Mansion
+xyz.minecratfer.parkour.arena.japan=East
+xyz.minecratfer.parkour.arena.egypt=Egypt
+xyz.minecratfer.parkour.msg.record=Ort - §b%2$s§r%1$sSpielers Rekord ist §6%3$s§r - §b%4$s§r Sekunden
+
+## Игрок выбыл
+xyz.minecrafter.eliminated=§c%1$s§r wurde eliminiert
+xyz.minecrafter.eliminated.pvp.players=Spieler §c%1$s§r wurde eliminiert. §c%1$s§r hatte %2$s kills.
+xyz.minecrafter.eliminated.from.game=§c%1$s§r wurde vom Spiel eliminiert
+xyz.minecrafter.eliminated.player=Player §c%1$s§r wurde eliminiert
+xyz.minecrafter.eliminated.player.from.game=Spieler §c%1$s§r wurde vom Spiel eliminiert
+xyz.minecrafter.eliminated.players.from.game=§c%1$s§r wurde vom Spiel eliminiert
+xyz.minecrafter.msg.you.lost=Du hast verloren!
+xyz.minecrafter.eliminated.players=§c%1$s§r wurde eliminiert
+
+## Минное поле
+xyz.minecrafter.text.deadmsg_mn=§a%1$s §6wollte mal auf eine Mine steigen, Fall §a№%2$s
+xyz.minecrafter.text.deadmsg_mn2=§6In §a%2$s §6hatte §a%1$s §6kontakt mit einer Mine
+
+## Злая курица
+xyz.minecrafter.msg.death.chicken=Spieler §c%1$s§r hat das Böse Hühnchen gekillt!
+xyz.minecrafter.msg.win.chick=§g%1$s§r sammle genug Münzen um zu gewinnen!
+xyz.minecrafter.msg.20sec.start=Hühnchen wird in §c%1$s§r Sekunden wütend sein 
+xyz.minecrafter.msg.chicken.start=Sieht aus als hätte §c%1$s§r vergessen das Huhn zu füttern! §o§7(Ow, haben wir vergessen euch zu sagen dass ihr die Hüner füttern müsst?!) 
+xyz.minecrafter.msg.powerchicken=§l§4Achtung: §cDas Hühnchen wird jede Minute stärker!
+xyz.minecrafter.msg.getcoin=§g§l+1§r §r§o§7(Du hast schon %2$s)
+xyz.minecrafter.msg.new_ability_chicken=§l§4Achtung:§r schafte §c%1$s§r Minuten. Hühnchen wird stärker, nneue Fähigkeit ist§c %2$s
+xyz.minecrafter.msg.new_ability_chicken.clone=Klon
+
+xyz.minecrafter.msg.chicken_teleport=Hühnchen teleportiert
+xyz.minecrafter.msg.chicken_event_over=§l§4Event §7ist vorbei!
+xyz.minecrafter.msg.chicken_event_on=§lAchtung, ausgewähltes Event!
+xyz.minecrafter.msg.chicken_event1=§l§4Event: §7Chicken Madness
+xyz.minecrafter.msg.chicken_event2=§l§4Event: §7Flud
+xyz.minecrafter.msg.chicken_event3=§l§4Event: §7Blinder Albtraum
+xyz.minecrafter.msg.chicken_event4=§l§4Event: §7Sickening fuss
+xyz.minecrafter.msg.chicken_event5=§l§4Event: §7Gutes Hühnchen
+
+## BlockParty
+xyz.minecrafter.partyblock.round.counter=§lRunde§4## %1$s
+xyz.minecrafter.partyblock.mayfly=Du kannst jetzt fliegen
+
+## DeathRun
+xyz.minecrafter.msg.deatrun.near=komme näher
+xyz.minecrafter.msg.deatrun.dead_select.t1=§bDer Tod wird ausgewählt...
+xyz.minecrafter.msg.deatrun.dead_select.t2=§bDer Tod wird ... sein
+xyz.minecrafter.msg.deatrun.dead_select.t3=§bDer Tod ist ...
+xyz.minecrafter.msg.deatrun.spawnpoint=Spieler§a %1$s §rschafte§a %2$s §rden Checkpoint
+xyz.minecrafter.msg.deatrun.player.deat=Spieler§4 %1$s §rwurde der Tod! 
+xyz.minecrafter.msg.deatrun.deat.kill=§4%1$s§r war §7Der Tod, nahm §4 %2$s §rlives
+xyz.minecrafter.msg.deatrun.you.deat=§4Du bist tot!
+
+## Дропер
+xyz.minecrafter.drop.levelup=§a%1$s§r wechselte zu Level §6%2$s§r.
+
+## TNTRUN
+xyz.minecrafter.tntrun.level.down=§c%1$s§r fiel in das §6%2$s§r level
+xyz.minecrafter.spectator.perm.items=§cDu kannst dich diesen Objekten nicht nähern!!
+xyz.minecrafter.msg.tntrun.noblockbreaks.activated=Während §b%1$s§r Sekunden werden keine Blöcke unter dir zerfallen!
+xyz.minecrafter.msg.tntrun.noblockbreaks.nope=Blöcke sind wieder unter dir aufgetaucht!
+xyz.minecrafter.msg.tntrun.help_feather.activated= Sicherungs Feder wurde aktiviert!
+xyz.minecrafter.msg.tntrun.help_feather.use= Sicherungs Feder wird genutzt!
+## FlagWars
+xyz.minecrafter.flagw.reset.flag.blue=Flagge von Team §9blue§r ist wieder bei der Base! 
+xyz.minecrafter.flagw.reset.flag.red=flagge von Team §cred§r ist wieder bei der Base! 
+xyz.minecrafter.flagw.flag.add=Bringt die Flagge
+xyz.minecrafter.flagw.flag.add.red=Spielerr§c %1$s §rbrings the flag of the §9blue§r Team
+xyz.minecrafter.flagw.flag.add.blue=Spieler§9 %1$s §rbringt die Flagge von Team §cred§r Team
+xyz.minecrafter.flagw.flag.title=In§4 %1$s §rSekunden wird die Wand gelöscht
+xyz.minecrafter.flagw.flag.blue=Spieler§9 %1$s§r bring die Fagge von dem §cred§r Team, jetzt§e %2$s eingesammelt
+xyz.minecrafter.flagw.flag.red=Spieler§c %1$s§r bringt die Flagge von dem §9blue§r Team, jetzt§e %2$s eingesammelt
+
+yellow
+## BedWars
+xyz.minecrafter.bw.kitstart.abuse=Warte weitere §a%1$s §rSekunden um das Statkit zu bekommen! 
+xyz.minecrafter.editor.see_more=Entdecken
+xyz.minecrafter.editor.bw.generator.generator.description=Festlefen der Generations-Geschwindigkeit für eine Resource "%1$s". Drücke auf "%2$s" um die Zeit festzulegen.
+xyz.minecrafter.editor.bw.generator.description=Konfiguriere die Generations-rate in Bedwar. Drücke auf Entdecken um die derzeitige Zeit generation von Items anzeien zu lassen.
+xyz.minecrafter.editor.bw.generator=Der Generator
+xyz.minecrafter.editor.bw.generator.current_time=Resourse%1$s %2$s.item§r wird in §b%4$s§r Sekunden in deinem Inventar sein! 
+xyz.minecrafter.bw.select_kitstart=Wähle welches Item du nach dem Wiederbeleben bekommst. 
+xyz.minecrafter.bw.select_your_team.name=Teamauswahl
+xyz.minecrafter.bw.select_your_team=Wähle dein Team, es können so viele Spiler in einem Team sein wie du willst. Um das Spiel zu starten brauchst du mindestens 2 Teams mit Spielern.
+xyz.minecrafter.msg.bw.bed.destroy=Nur noch:§4 %1$s §rMinuten bis alle Betten zerstört werden
+xyz.minecrafter.msg.bw.bed.destroy1=Nur noch:§4 %1$s §rMinuten bis alle Bettern zerstört werden 
+xyz.minecrafter.msg.bw.bed.destroy2=Nur noch:§4 %1$s §rMinuten bis alle Bettern zerstört werden 
+xyz.minecrafter.msg.bw.bed.destroy.time=Nur noch §4 %1$s:%2$s §rbis alle Betten automatisch zerstöret 
+xyz.minecrafter.msg.bw.bed.destroy.time1=Die Betten von jedem Team wurden zerstört. Du kannst nicht mehr §4widerbelebt §rwerden
+
+xyz.minecrafter.bw.norespawn=Du wirst nicht mehr wiederbelebt!
+xyz.minecrafter.bw.yourbeddestroed=Dein Bett ist zerstört
+
+xyz.minecrafter.teamconnect.red=§c%1$s§r ist dem §cRed Team beigetreten
+xyz.minecrafter.teamconnect.blue=§9%1$s§r ist dem §9Blue Team beigetreten
+xyz.minecrafter.teamconnect.yellow=§g%1$s§r ist dem §gYellow Team beigetreten
+xyz.minecrafter.teamconnect.green=§a%1$s§r ist dem §aGreen Team beigetreten
+
+xyz.minecrafter.deathvoid.t1=%1$s%2$s§r war sich Sicher, dass Nichts zu überleben!
+xyz.minecrafter.deathvoid.t2=%1$s%2$s§r fiehl ins Nichts...
+xyz.minecrafter.deathvoid.t3=Sieht so aus, das %1$s%2$s§r ins Nichts fiehl
+xyz.minecrafter.eliminated.team=%1$s§r wurde vom Spiel eliminiert
+## ## Сколенение от xyz.minecrafter.eliminated.team
+xyz.minecrafter.team.blue=§9Blaues Team
+xyz.minecrafter.team.green=§aGrünes Team
+xyz.minecrafter.team.red=§cRotes Team
+xyz.minecrafter.team.yellow=§gGelbes Team
+xyz.minecrafter.winner.team=%1$s§r hat gewonnen!
+
+xyz.minecrafter.msg.bw.error.nab=Du kannst dich nicht nähern: Spielern und Items
+
+## Такое же как xyz.minecrafter.winner.team, только без переменной
+xyz.minecrafter.winner.team.noplaceholder=hat gewonnen
+
+xyz.minecrafter.bw.bed.was.break=%1$s's Bett wurde zerstört von §b%2$s 
+## ## Сколенение от xyz.minecrafter.bw.bed.was.break
+xyz.minecrafter.team.blue.break=§9Blaues Team§r
+xyz.minecrafter.team.green.break=§aGrünes Team§r
+xyz.minecrafter.team.red.break=§cRotes Team§r
+xyz.minecrafter.team.yellow.break=§gGelbes Team§r
+
+xyz.minecrafter.msg.bw.respawn.title1=Du wurdest wieder belebt!
+xyz.minecrafter.msg.bw.respawn.title=Warte,§a %1$s
+xyz.minecrafter.msg.bw.error=Spielerzuteilungs Fegler. Bitte starte das Spiel neu! 
+xyz.minecrafter.msg.bw.deat.out=Spieler%2$s %1$s §rwurde eliminiert
+xyz.minecrafter.msg.bw.deat=%2$s %1$s §rist gestorben
+
+
+
+###Übersetzt von MiauMiez! Nicht für den Eigengebrauch! Nicht verändern! 
+###Version 1.0 last changed 10/21/2022 
