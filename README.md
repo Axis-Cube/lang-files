@@ -1,2 +1,2 @@
 # lang-files
-тест
+language
